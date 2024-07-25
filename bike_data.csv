@@ -1,0 +1,1001 @@
+Brand,Model Year,Bike Type,Frame Material,milage,Brake Type,Suspension,Color,Weight (kg),Price Range ($),Intended Use,Additional Features
+Santa Cruz,2015,Folding,Aluminum,24,Hydraulic,Front,Pink,12.6,2375,Commuting,None
+Trek,2015,Electric,Titanium,21,Hydraulic,Rear,Pink,13.8,9834,Racing,Integrated Lights
+Giant,2017,Road,Steel,24,Disc,Rear,Yellow,14.9,8343,Exercise,Electric Assistance
+Giant,2016,Road,Titanium,27,Disc,Rear,Orange,13.4,7405,Exercise,Integrated Lights
+Yeti,2019,Folding,Aluminum,23,Hydraulic,Full,White,8.1,5933,Leisure,Electric Assistance
+Merida,2021,Gravel,Aluminum,22,Rim,Full,Orange,13.1,8358,Exercise,Integrated Lights
+Giant,2015,Gravel,Titanium,27,Rim,Full,Purple,11.5,4706,Racing,None
+Santa Cruz,2021,Cyclocross,Steel,24,Hydraulic,None,Blue,11.5,9415,Leisure,None
+Cannondale,2021,Mountain,Steel,24,Disc,Rear,White,9.7,4417,Commuting,Integrated Lights
+Scott,2017,Hybrid,Titanium,28,Hydraulic,Full,White,8.3,7597,Racing,Electric Assistance
+Yeti,2023,Folding,Aluminum,20,Hydraulic,None,Blue,8.4,5481,Exercise,None
+Canyon,2021,Touring,Aluminum,27,Disc,None,Black,7.5,573,Commuting,Electric Assistance
+Bianchi,2021,Hybrid,Steel,27,Rim,None,Red,13.4,5551,Commuting,None
+Bianchi,2020,Fat Bike,Aluminum,28,Rim,None,Blue,13,5706,Racing,Integrated Lights
+Specialized,2017,Fat Bike,Aluminum,25,Rim,None,Yellow,13.9,472,Touring,Integrated Lights
+Canyon,2020,Cyclocross,Titanium,20,Hydraulic,Rear,Black,12.6,3678,Racing,None
+Yeti,2015,Cyclocross,Titanium,20,Hydraulic,None,Grey,8.3,7036,Leisure,Integrated Lights
+Yeti,2018,Touring,Carbon Fiber,28,Rim,Full,Pink,12.9,9643,Exercise,Integrated Lights
+Bianchi,2022,Cyclocross,Titanium,27,Hydraulic,Front,Red,11.5,4741,Mountain Biking,Integrated Lights
+Specialized,2015,Fat Bike,Carbon Fiber,28,Rim,Front,Yellow,7.9,1927,Mountain Biking,None
+Santa Cruz,2019,Mountain,Titanium,22,Rim,Rear,Purple,14.2,9531,Touring,Electric Assistance
+Merida,2016,Fat Bike,Titanium,24,Hydraulic,Rear,Green,14.2,2016,Touring,Electric Assistance
+Bianchi,2018,Gravel,Aluminum,26,Rim,Front,White,12,6710,Commuting,Integrated Lights
+Merida,2020,Folding,Carbon Fiber,20,Disc,Rear,Grey,10.4,9433,Touring,Electric Assistance
+Scott,2022,Fat Bike,Carbon Fiber,27,Rim,Rear,Blue,8.9,8109,Racing,Electric Assistance
+Giant,2021,Touring,Steel,28,Disc,Full,Green,7.8,3958,Leisure,Electric Assistance
+Trek,2017,Road,Titanium,25,Disc,Full,Orange,13.4,1877,Leisure,None
+Giant,2022,Cyclocross,Titanium,24,Rim,None,Orange,14.7,1430,Leisure,Electric Assistance
+Santa Cruz,2018,Folding,Aluminum,23,Rim,Full,Yellow,7.1,3913,Mountain Biking,Electric Assistance
+Trek,2019,Road,Aluminum,25,Hydraulic,Rear,Green,10.8,7422,Commuting,Electric Assistance
+Cannondale,2022,Folding,Carbon Fiber,28,Disc,Full,White,7.8,3960,Commuting,Integrated Lights
+Giant,2015,Road,Carbon Fiber,23,Hydraulic,Full,Purple,10.3,492,Commuting,Integrated Lights
+Bianchi,2015,Folding,Aluminum,27,Rim,Full,Orange,11.6,9959,Commuting,Integrated Lights
+Specialized,2016,Electric,Steel,26,Disc,Rear,Blue,10.4,2362,Mountain Biking,Integrated Lights
+Giant,2023,Mountain,Aluminum,23,Rim,Full,Green,7.1,2358,Mountain Biking,None
+Giant,2018,Mountain,Steel,21,Hydraulic,None,Green,14.9,1832,Mountain Biking,Integrated Lights
+Giant,2020,Cyclocross,Aluminum,25,Hydraulic,Full,Pink,14.4,5866,Touring,Integrated Lights
+Yeti,2015,Road,Aluminum,22,Hydraulic,Rear,Yellow,13.2,9522,Commuting,None
+Trek,2016,Folding,Steel,26,Rim,Rear,Green,10.2,9601,Touring,None
+Specialized,2016,Gravel,Steel,28,Rim,Full,Purple,12.5,7216,Touring,None
+Merida,2018,Gravel,Steel,21,Hydraulic,Rear,Purple,12.7,7161,Exercise,Electric Assistance
+Merida,2022,Gravel,Titanium,25,Disc,Full,Purple,9.7,5079,Exercise,None
+Trek,2018,Electric,Titanium,27,Disc,None,Pink,7.3,9502,Leisure,Electric Assistance
+Scott,2022,Hybrid,Steel,26,Rim,Front,Green,12,5852,Commuting,None
+Yeti,2015,Mountain,Titanium,24,Hydraulic,Front,White,14.6,1674,Racing,Integrated Lights
+Giant,2017,Gravel,Steel,23,Disc,Rear,Red,13,9620,Touring,None
+Cannondale,2019,Fat Bike,Steel,28,Rim,Front,Black,8.8,6927,Commuting,None
+Yeti,2019,Touring,Steel,27,Disc,None,Orange,11.4,3961,Commuting,None
+Cannondale,2021,Gravel,Carbon Fiber,24,Disc,None,Blue,10.1,5767,Commuting,Electric Assistance
+Trek,2015,Gravel,Aluminum,27,Rim,Full,Blue,11.4,339,Touring,Integrated Lights
+Trek,2016,Electric,Steel,27,Disc,Rear,Pink,12.8,3797,Touring,None
+Scott,2022,Road,Titanium,24,Rim,Rear,Pink,10.9,317,Commuting,Electric Assistance
+Santa Cruz,2021,Electric,Titanium,26,Disc,Rear,Purple,14.3,3281,Mountain Biking,Integrated Lights
+Santa Cruz,2020,Touring,Titanium,22,Disc,Full,Purple,12.5,8622,Leisure,None
+Canyon,2020,Fat Bike,Carbon Fiber,27,Rim,None,Black,9.8,2280,Touring,None
+Bianchi,2022,Fat Bike,Aluminum,23,Hydraulic,None,Black,11.9,2725,Touring,Electric Assistance
+Scott,2018,Cyclocross,Titanium,20,Hydraulic,Rear,Grey,10.6,8598,Mountain Biking,Electric Assistance
+Specialized,2021,Hybrid,Aluminum,27,Hydraulic,Full,Grey,13.3,6127,Commuting,None
+Scott,2023,Folding,Aluminum,25,Rim,Front,Grey,7.1,5672,Mountain Biking,Integrated Lights
+Merida,2023,Fat Bike,Carbon Fiber,27,Rim,Rear,Green,11.7,728,Mountain Biking,Electric Assistance
+Bianchi,2017,Cyclocross,Carbon Fiber,20,Disc,Front,Yellow,7.2,937,Commuting,Integrated Lights
+Specialized,2016,Folding,Aluminum,23,Disc,Full,Blue,14.8,8440,Exercise,Electric Assistance
+Specialized,2015,Cyclocross,Carbon Fiber,21,Hydraulic,Front,White,11.1,1540,Touring,None
+Yeti,2023,BMX,Carbon Fiber,20,Rim,Rear,Orange,9.2,4008,Touring,None
+Merida,2022,BMX,Steel,28,Disc,Front,Blue,7.9,9370,Commuting,None
+Merida,2022,Road,Titanium,22,Hydraulic,Rear,Grey,9.7,2169,Leisure,Electric Assistance
+Giant,2015,BMX,Carbon Fiber,24,Rim,Front,Blue,12.1,4911,Racing,Integrated Lights
+Canyon,2019,Gravel,Aluminum,23,Rim,Front,Black,14.8,7550,Mountain Biking,Integrated Lights
+Yeti,2023,Mountain,Aluminum,25,Hydraulic,Front,Grey,7.8,800,Commuting,Electric Assistance
+Cannondale,2015,Road,Carbon Fiber,23,Disc,Front,Black,8.7,6785,Racing,Electric Assistance
+Trek,2019,Fat Bike,Carbon Fiber,24,Hydraulic,Rear,Pink,9.2,2961,Leisure,Integrated Lights
+Giant,2020,Fat Bike,Aluminum,23,Disc,Front,White,13.1,9703,Mountain Biking,Electric Assistance
+Santa Cruz,2022,BMX,Titanium,23,Disc,Front,Grey,7.6,4871,Commuting,Electric Assistance
+Merida,2017,Fat Bike,Aluminum,27,Rim,None,White,14.2,4281,Exercise,Electric Assistance
+Scott,2019,BMX,Carbon Fiber,26,Rim,Front,White,8.8,7290,Commuting,None
+Scott,2022,Gravel,Carbon Fiber,24,Rim,None,Pink,12.7,9597,Mountain Biking,Electric Assistance
+Canyon,2020,Folding,Steel,28,Rim,Rear,Purple,13.1,9092,Mountain Biking,None
+Scott,2015,Cyclocross,Aluminum,28,Hydraulic,Front,Pink,14.1,5434,Touring,None
+Scott,2019,Electric,Carbon Fiber,21,Rim,Front,Grey,8.7,9136,Mountain Biking,None
+Giant,2019,Mountain,Titanium,21,Rim,Rear,Blue,12.8,2529,Leisure,Electric Assistance
+Scott,2015,Cyclocross,Carbon Fiber,25,Disc,Front,Yellow,9.8,4685,Touring,Electric Assistance
+Scott,2017,Electric,Carbon Fiber,20,Rim,None,Yellow,10.1,6390,Touring,Integrated Lights
+Bianchi,2020,Folding,Aluminum,24,Rim,None,Orange,11.1,7502,Touring,Electric Assistance
+Scott,2020,Folding,Steel,26,Hydraulic,Full,Green,8,7141,Leisure,Electric Assistance
+Giant,2018,Folding,Titanium,23,Rim,Front,Blue,9.9,9153,Mountain Biking,None
+Yeti,2015,Mountain,Carbon Fiber,22,Rim,Full,Orange,14.5,8432,Commuting,Electric Assistance
+Santa Cruz,2015,Touring,Steel,23,Hydraulic,Front,Grey,8.4,7994,Commuting,Electric Assistance
+Santa Cruz,2016,Gravel,Aluminum,20,Rim,None,White,9.5,2188,Exercise,Electric Assistance
+Trek,2017,Hybrid,Titanium,25,Rim,Front,Blue,13.5,6416,Touring,Integrated Lights
+Specialized,2016,Road,Titanium,20,Hydraulic,Rear,Purple,9,1676,Commuting,None
+Santa Cruz,2015,Hybrid,Steel,22,Hydraulic,Full,Red,8.3,1270,Touring,Integrated Lights
+Merida,2016,Touring,Steel,22,Rim,Front,Blue,8.5,7402,Mountain Biking,None
+Giant,2021,BMX,Steel,28,Rim,None,Pink,14.9,9771,Mountain Biking,Electric Assistance
+Trek,2018,Electric,Aluminum,28,Hydraulic,None,Yellow,10.3,5786,Mountain Biking,Integrated Lights
+Santa Cruz,2019,Hybrid,Aluminum,20,Hydraulic,Front,Yellow,10.2,7548,Touring,Integrated Lights
+Trek,2018,Mountain,Titanium,28,Hydraulic,None,Purple,13.1,5710,Leisure,None
+Specialized,2021,Gravel,Titanium,27,Disc,Front,Grey,7.5,8829,Mountain Biking,Electric Assistance
+Cannondale,2019,Gravel,Carbon Fiber,21,Rim,None,Black,8.4,7589,Leisure,Electric Assistance
+Scott,2017,Gravel,Carbon Fiber,26,Hydraulic,Front,White,12.8,9609,Leisure,None
+Cannondale,2018,Hybrid,Carbon Fiber,26,Disc,Front,Pink,9.6,8007,Commuting,Electric Assistance
+Trek,2021,Gravel,Steel,22,Rim,None,Grey,12.6,4981,Mountain Biking,Electric Assistance
+Giant,2018,Touring,Steel,22,Rim,Full,Blue,7.2,8413,Mountain Biking,Electric Assistance
+Cannondale,2018,Electric,Steel,21,Hydraulic,Rear,Grey,11.7,3041,Exercise,Integrated Lights
+Trek,2023,Fat Bike,Aluminum,23,Disc,Rear,Red,11.4,3370,Leisure,Electric Assistance
+Yeti,2016,Touring,Carbon Fiber,25,Hydraulic,Full,Green,8.2,2400,Racing,Integrated Lights
+Santa Cruz,2018,Fat Bike,Titanium,25,Disc,Rear,Grey,7.9,5569,Racing,Electric Assistance
+Merida,2018,Cyclocross,Aluminum,22,Disc,Rear,Yellow,14.4,4244,Touring,Integrated Lights
+Trek,2016,Fat Bike,Steel,21,Hydraulic,None,Red,11,328,Racing,None
+Cannondale,2020,Mountain,Titanium,26,Rim,Full,Orange,7.4,1605,Touring,Integrated Lights
+Yeti,2018,Touring,Carbon Fiber,22,Rim,Rear,Purple,8.2,7911,Exercise,None
+Cannondale,2021,Touring,Aluminum,25,Rim,Front,Purple,12.4,7954,Leisure,Electric Assistance
+Merida,2019,Folding,Titanium,21,Disc,Rear,White,10.8,3198,Mountain Biking,Electric Assistance
+Cannondale,2023,Road,Titanium,24,Rim,Rear,Blue,11.8,8790,Touring,Electric Assistance
+Giant,2020,Road,Carbon Fiber,23,Disc,Front,Purple,10.7,2388,Touring,Integrated Lights
+Giant,2022,Hybrid,Carbon Fiber,23,Rim,None,Green,14.4,9656,Commuting,None
+Cannondale,2016,BMX,Carbon Fiber,21,Hydraulic,Full,Grey,13.6,6189,Mountain Biking,Integrated Lights
+Giant,2023,Hybrid,Steel,25,Hydraulic,None,Grey,14.8,8028,Mountain Biking,Electric Assistance
+Scott,2017,Mountain,Steel,24,Disc,Front,Yellow,14.5,2536,Exercise,None
+Specialized,2015,Fat Bike,Carbon Fiber,23,Disc,Full,Black,12.8,5837,Touring,Electric Assistance
+Cannondale,2015,Cyclocross,Titanium,23,Rim,None,Green,7.4,5545,Touring,None
+Merida,2019,Folding,Steel,27,Rim,Front,Black,15,3283,Mountain Biking,Electric Assistance
+Specialized,2017,Mountain,Titanium,28,Disc,Full,Red,10.8,9751,Racing,Integrated Lights
+Scott,2016,Touring,Aluminum,24,Rim,None,Purple,7.5,711,Exercise,Electric Assistance
+Canyon,2017,Electric,Aluminum,23,Disc,Front,Grey,14.9,1024,Commuting,Electric Assistance
+Bianchi,2017,Electric,Aluminum,22,Rim,Front,Grey,11.6,1989,Racing,None
+Cannondale,2018,BMX,Steel,24,Rim,Front,Orange,10.7,9808,Exercise,None
+Giant,2019,Gravel,Carbon Fiber,25,Disc,Full,Pink,7.2,1660,Leisure,Electric Assistance
+Trek,2022,Fat Bike,Aluminum,23,Hydraulic,None,Black,10.4,7140,Touring,Electric Assistance
+Trek,2020,Folding,Aluminum,24,Hydraulic,Full,Pink,8.5,7641,Exercise,Electric Assistance
+Canyon,2016,Fat Bike,Titanium,24,Rim,Full,Purple,12.8,9480,Touring,Electric Assistance
+Trek,2018,Folding,Steel,21,Disc,Rear,Blue,7.1,9575,Mountain Biking,Electric Assistance
+Canyon,2016,Gravel,Steel,23,Rim,Rear,White,11.3,9407,Leisure,Electric Assistance
+Giant,2015,Mountain,Titanium,21,Rim,Front,White,7.3,7025,Racing,Integrated Lights
+Giant,2016,Hybrid,Steel,28,Hydraulic,None,Green,12.7,4142,Leisure,None
+Bianchi,2019,Road,Titanium,22,Hydraulic,Front,Black,14.6,7127,Racing,None
+Bianchi,2015,Road,Carbon Fiber,28,Rim,Front,Purple,7.3,3982,Exercise,Electric Assistance
+Bianchi,2017,Electric,Titanium,21,Hydraulic,Front,Yellow,7.8,8555,Mountain Biking,None
+Cannondale,2016,Folding,Carbon Fiber,26,Rim,Front,Orange,11.1,548,Racing,Electric Assistance
+Giant,2018,Hybrid,Steel,21,Hydraulic,Rear,Black,14.9,1282,Exercise,None
+Cannondale,2016,Fat Bike,Aluminum,21,Rim,Front,Blue,10.3,974,Leisure,Integrated Lights
+Trek,2019,Touring,Steel,21,Hydraulic,Rear,Pink,11.9,2915,Exercise,None
+Bianchi,2022,Touring,Aluminum,24,Disc,None,Red,13.1,7380,Mountain Biking,None
+Bianchi,2020,Hybrid,Steel,24,Rim,Rear,Orange,14.4,8575,Exercise,Electric Assistance
+Giant,2021,Mountain,Titanium,27,Rim,Front,Red,8.4,1828,Racing,None
+Bianchi,2017,Hybrid,Titanium,20,Hydraulic,Full,Black,14.3,4070,Racing,Integrated Lights
+Cannondale,2020,Electric,Carbon Fiber,21,Rim,None,Green,12,7268,Commuting,None
+Bianchi,2017,Folding,Titanium,27,Disc,Rear,Black,13.4,3360,Racing,None
+Scott,2017,Folding,Aluminum,27,Hydraulic,Rear,Green,9.4,2346,Commuting,None
+Giant,2016,Hybrid,Titanium,26,Disc,Full,Black,11,1235,Leisure,Integrated Lights
+Trek,2018,Mountain,Carbon Fiber,22,Hydraulic,Rear,Grey,8.7,2933,Exercise,Integrated Lights
+Scott,2023,Cyclocross,Aluminum,22,Hydraulic,Full,Grey,13.8,5400,Racing,Integrated Lights
+Giant,2018,Folding,Aluminum,22,Hydraulic,Front,Blue,8.6,4970,Exercise,Integrated Lights
+Canyon,2015,Fat Bike,Steel,27,Hydraulic,Front,Red,11.4,8318,Commuting,Electric Assistance
+Merida,2022,Fat Bike,Aluminum,21,Disc,Front,Purple,10.3,7259,Mountain Biking,Electric Assistance
+Bianchi,2018,BMX,Titanium,26,Rim,Rear,Orange,7.4,4189,Touring,Electric Assistance
+Trek,2023,Fat Bike,Steel,27,Disc,Full,Pink,10.3,5734,Leisure,Electric Assistance
+Bianchi,2017,Gravel,Carbon Fiber,26,Rim,None,Yellow,13.3,9864,Mountain Biking,None
+Santa Cruz,2019,Hybrid,Steel,22,Disc,Full,Green,11.2,9913,Exercise,Electric Assistance
+Merida,2018,Mountain,Carbon Fiber,21,Hydraulic,Rear,Purple,9.4,3590,Mountain Biking,None
+Trek,2016,Folding,Carbon Fiber,28,Hydraulic,Full,Pink,10.6,9386,Exercise,None
+Merida,2021,Road,Steel,23,Disc,Rear,Red,13.2,1149,Leisure,Electric Assistance
+Canyon,2020,Hybrid,Aluminum,20,Rim,Rear,Grey,12.3,1565,Mountain Biking,Integrated Lights
+Santa Cruz,2023,Folding,Titanium,28,Hydraulic,Rear,Purple,7.9,773,Exercise,Electric Assistance
+Giant,2019,BMX,Carbon Fiber,27,Hydraulic,None,Grey,11.2,8220,Mountain Biking,Integrated Lights
+Specialized,2018,Electric,Aluminum,22,Hydraulic,Front,Yellow,8.6,3291,Commuting,None
+Bianchi,2021,Cyclocross,Carbon Fiber,23,Hydraulic,None,Pink,14.8,1888,Touring,None
+Trek,2020,Hybrid,Titanium,21,Disc,Full,Grey,12.9,8969,Mountain Biking,None
+Scott,2018,Folding,Carbon Fiber,23,Hydraulic,Full,Red,7.6,1812,Touring,Electric Assistance
+Merida,2022,Folding,Carbon Fiber,25,Disc,None,Purple,9,6140,Commuting,Electric Assistance
+Canyon,2023,Mountain,Steel,24,Rim,None,Grey,7.6,9673,Leisure,Integrated Lights
+Santa Cruz,2023,Fat Bike,Steel,23,Rim,Rear,Yellow,10,5871,Touring,Integrated Lights
+Yeti,2018,Road,Carbon Fiber,22,Disc,Front,Grey,13.6,703,Commuting,Integrated Lights
+Bianchi,2022,Mountain,Titanium,26,Disc,Rear,White,7.5,1690,Commuting,Electric Assistance
+Bianchi,2023,BMX,Steel,20,Disc,Rear,Pink,8.3,1231,Commuting,None
+Merida,2020,BMX,Steel,28,Rim,Rear,Blue,9.1,7693,Touring,Integrated Lights
+Cannondale,2022,Mountain,Carbon Fiber,20,Disc,Full,Pink,12,4843,Racing,Integrated Lights
+Bianchi,2017,BMX,Carbon Fiber,28,Hydraulic,None,Black,14.8,6353,Mountain Biking,None
+Canyon,2022,Gravel,Titanium,24,Hydraulic,Full,Red,13.6,4383,Exercise,Integrated Lights
+Canyon,2023,BMX,Steel,23,Hydraulic,Front,Grey,8.6,6430,Commuting,None
+Merida,2015,Fat Bike,Steel,26,Disc,Rear,Purple,12.7,6579,Leisure,Electric Assistance
+Specialized,2022,Fat Bike,Carbon Fiber,28,Disc,Rear,Yellow,11.5,2093,Racing,None
+Canyon,2019,Cyclocross,Steel,24,Rim,Full,Purple,10.9,1046,Racing,None
+Bianchi,2023,Folding,Carbon Fiber,22,Disc,None,Orange,14.3,8917,Commuting,None
+Bianchi,2019,Touring,Aluminum,24,Disc,Rear,Purple,11.7,2222,Leisure,None
+Giant,2019,Fat Bike,Carbon Fiber,25,Hydraulic,Front,Green,8.1,9856,Mountain Biking,None
+Cannondale,2015,Cyclocross,Carbon Fiber,27,Hydraulic,Front,Yellow,8.3,1416,Commuting,Integrated Lights
+Giant,2019,Cyclocross,Carbon Fiber,22,Disc,None,Black,14.4,9692,Exercise,None
+Canyon,2023,Touring,Aluminum,23,Hydraulic,Front,Blue,7.6,8209,Touring,Electric Assistance
+Giant,2015,Gravel,Carbon Fiber,21,Hydraulic,Rear,Orange,8.1,6294,Exercise,None
+Canyon,2015,Cyclocross,Carbon Fiber,26,Disc,Full,White,12.2,6258,Touring,None
+Santa Cruz,2019,Road,Carbon Fiber,21,Rim,Full,Blue,8.8,4120,Mountain Biking,None
+Yeti,2022,BMX,Aluminum,26,Hydraulic,Rear,White,13.6,6392,Leisure,None
+Trek,2018,Mountain,Aluminum,25,Rim,Rear,Orange,10.3,6048,Touring,Integrated Lights
+Bianchi,2022,Folding,Titanium,20,Hydraulic,Full,Yellow,10.9,923,Exercise,Electric Assistance
+Scott,2022,Touring,Steel,27,Hydraulic,None,Pink,8,5698,Racing,None
+Canyon,2017,Folding,Aluminum,27,Hydraulic,None,Blue,7.2,9538,Leisure,Integrated Lights
+Santa Cruz,2017,BMX,Carbon Fiber,25,Hydraulic,Front,Red,13.1,4750,Touring,Electric Assistance
+Bianchi,2016,Gravel,Carbon Fiber,21,Rim,Front,Green,7.6,4027,Racing,Integrated Lights
+Cannondale,2022,Cyclocross,Titanium,20,Disc,Front,Yellow,12.1,1577,Exercise,Electric Assistance
+Giant,2015,Touring,Steel,23,Hydraulic,None,Grey,11.3,5064,Leisure,Integrated Lights
+Merida,2022,Hybrid,Titanium,28,Hydraulic,Front,Purple,11.1,1988,Commuting,Integrated Lights
+Yeti,2020,Fat Bike,Steel,23,Hydraulic,None,Grey,9.4,5218,Touring,Electric Assistance
+Santa Cruz,2022,BMX,Carbon Fiber,22,Hydraulic,None,Black,13,2783,Leisure,None
+Giant,2016,Hybrid,Titanium,21,Disc,Rear,White,10.2,7287,Leisure,Electric Assistance
+Scott,2016,Fat Bike,Steel,21,Rim,Front,Orange,8.2,7253,Mountain Biking,Integrated Lights
+Santa Cruz,2017,Mountain,Aluminum,28,Rim,Full,Pink,7.4,2345,Commuting,Electric Assistance
+Giant,2019,Mountain,Titanium,26,Rim,None,Red,9.7,8243,Leisure,Electric Assistance
+Giant,2016,Touring,Carbon Fiber,21,Disc,Full,Orange,11.9,1308,Racing,Electric Assistance
+Yeti,2019,Folding,Titanium,20,Rim,Full,Red,8.8,9041,Leisure,Integrated Lights
+Merida,2020,BMX,Carbon Fiber,20,Rim,Full,Purple,12.9,5683,Exercise,Integrated Lights
+Merida,2023,Hybrid,Aluminum,23,Disc,Front,White,7.9,6825,Leisure,None
+Merida,2017,Hybrid,Carbon Fiber,28,Disc,Full,Pink,10.8,718,Leisure,Integrated Lights
+Yeti,2016,Gravel,Carbon Fiber,26,Disc,Front,Orange,11.3,2718,Leisure,None
+Giant,2021,Electric,Aluminum,22,Hydraulic,Front,Yellow,13.6,1681,Leisure,Integrated Lights
+Cannondale,2018,Hybrid,Steel,28,Rim,Rear,Pink,7.9,6152,Racing,None
+Giant,2015,Gravel,Carbon Fiber,21,Rim,Full,Grey,7,1962,Touring,Electric Assistance
+Merida,2018,Gravel,Aluminum,28,Disc,Front,White,11.3,1904,Touring,Integrated Lights
+Yeti,2020,Fat Bike,Aluminum,22,Hydraulic,Front,Blue,8.2,7477,Touring,None
+Yeti,2016,Mountain,Steel,27,Disc,Full,Yellow,11.6,5758,Racing,Integrated Lights
+Santa Cruz,2018,Cyclocross,Titanium,28,Hydraulic,Full,Blue,7.3,7832,Commuting,None
+Specialized,2022,BMX,Titanium,20,Disc,None,Purple,10.9,3978,Commuting,Electric Assistance
+Cannondale,2016,Electric,Titanium,21,Hydraulic,Full,Blue,10.1,6187,Leisure,Integrated Lights
+Cannondale,2016,Gravel,Steel,21,Disc,None,Blue,8.2,8851,Racing,Electric Assistance
+Bianchi,2022,Hybrid,Carbon Fiber,21,Rim,Full,Purple,10.7,2382,Mountain Biking,Electric Assistance
+Specialized,2019,Road,Aluminum,22,Disc,Rear,Grey,10.8,473,Exercise,Electric Assistance
+Santa Cruz,2017,Fat Bike,Carbon Fiber,28,Hydraulic,None,White,7.5,3776,Exercise,Electric Assistance
+Bianchi,2015,Hybrid,Titanium,27,Hydraulic,Front,Red,12.4,3076,Leisure,None
+Scott,2018,Hybrid,Titanium,26,Disc,Front,Grey,14.3,443,Mountain Biking,Integrated Lights
+Trek,2017,Fat Bike,Aluminum,21,Rim,Full,Pink,11.9,355,Leisure,Electric Assistance
+Cannondale,2019,Folding,Aluminum,28,Rim,None,Grey,12,4338,Commuting,None
+Santa Cruz,2015,Touring,Carbon Fiber,21,Rim,Front,Red,13,9154,Mountain Biking,None
+Santa Cruz,2015,Fat Bike,Carbon Fiber,27,Rim,Front,Green,14.5,7614,Leisure,Electric Assistance
+Trek,2018,Mountain,Titanium,24,Hydraulic,Rear,Purple,14.9,7945,Commuting,None
+Bianchi,2023,Mountain,Aluminum,28,Hydraulic,Rear,Green,10.9,8439,Touring,None
+Specialized,2018,Mountain,Aluminum,28,Rim,None,White,14.6,4934,Touring,None
+Specialized,2015,Road,Titanium,24,Rim,Front,Orange,9.9,4297,Mountain Biking,Integrated Lights
+Trek,2019,Mountain,Titanium,20,Disc,Rear,Green,12.8,9980,Mountain Biking,Integrated Lights
+Giant,2019,Electric,Titanium,27,Rim,Full,Pink,14.5,4404,Mountain Biking,None
+Bianchi,2015,Road,Titanium,22,Disc,None,White,7.1,3208,Racing,Electric Assistance
+Bianchi,2017,Folding,Carbon Fiber,20,Rim,Rear,Blue,14.4,978,Mountain Biking,Electric Assistance
+Scott,2020,Cyclocross,Steel,26,Hydraulic,Rear,Grey,14.1,660,Exercise,None
+Scott,2020,Fat Bike,Titanium,28,Rim,Full,Blue,8.6,7340,Leisure,Integrated Lights
+Trek,2023,Touring,Aluminum,25,Disc,None,Yellow,10.3,678,Exercise,None
+Merida,2017,Cyclocross,Steel,27,Hydraulic,Full,Purple,8,4878,Touring,Electric Assistance
+Giant,2022,Folding,Titanium,23,Hydraulic,None,Orange,13,7116,Commuting,Integrated Lights
+Yeti,2018,Touring,Carbon Fiber,25,Rim,Rear,White,13.2,5471,Leisure,Electric Assistance
+Giant,2021,Mountain,Titanium,20,Disc,None,Blue,14,6032,Racing,Electric Assistance
+Cannondale,2016,Gravel,Titanium,23,Disc,None,Purple,10.5,8192,Touring,None
+Specialized,2015,Cyclocross,Titanium,20,Disc,Rear,Green,12,7141,Commuting,Integrated Lights
+Specialized,2017,Fat Bike,Steel,28,Hydraulic,None,Blue,13.7,2858,Touring,None
+Cannondale,2017,Road,Steel,24,Hydraulic,Rear,Orange,7.7,8495,Commuting,Electric Assistance
+Specialized,2020,Cyclocross,Titanium,28,Rim,Rear,Purple,8,7725,Leisure,Integrated Lights
+Scott,2020,Folding,Aluminum,23,Disc,None,Orange,13.5,3339,Mountain Biking,Integrated Lights
+Cannondale,2016,Fat Bike,Aluminum,20,Disc,None,Purple,10.5,925,Exercise,Integrated Lights
+Santa Cruz,2017,Mountain,Titanium,26,Hydraulic,Full,Grey,13.4,439,Mountain Biking,Integrated Lights
+Santa Cruz,2023,Mountain,Steel,23,Hydraulic,Front,White,7,1270,Exercise,Electric Assistance
+Santa Cruz,2022,BMX,Aluminum,23,Disc,None,Blue,7.9,5230,Leisure,Electric Assistance
+Cannondale,2018,Mountain,Steel,20,Rim,Front,Grey,9.9,3121,Mountain Biking,None
+Santa Cruz,2022,Folding,Steel,26,Rim,Full,Green,10.2,2491,Leisure,None
+Yeti,2018,Road,Titanium,25,Rim,Rear,Red,13.7,3753,Commuting,None
+Yeti,2016,Electric,Titanium,22,Hydraulic,Rear,Black,11.1,8798,Leisure,None
+Canyon,2015,Folding,Titanium,25,Rim,None,Green,14.3,570,Exercise,None
+Specialized,2016,Gravel,Titanium,21,Hydraulic,Front,Green,10.4,5654,Racing,None
+Canyon,2015,Fat Bike,Carbon Fiber,21,Disc,None,Orange,7.5,6881,Touring,None
+Yeti,2023,Hybrid,Steel,28,Disc,Front,Blue,10.7,2667,Commuting,Integrated Lights
+Cannondale,2023,BMX,Carbon Fiber,24,Disc,Rear,Yellow,10.3,5056,Mountain Biking,Electric Assistance
+Giant,2020,Folding,Aluminum,20,Disc,Full,Black,11.4,8746,Leisure,None
+Specialized,2018,Folding,Steel,28,Hydraulic,None,Purple,12.1,6833,Commuting,Electric Assistance
+Merida,2018,Hybrid,Carbon Fiber,24,Disc,Full,Red,7.5,4447,Exercise,None
+Santa Cruz,2016,Mountain,Carbon Fiber,27,Disc,Full,Grey,11.9,4928,Touring,Electric Assistance
+Merida,2015,Electric,Titanium,25,Rim,Rear,Red,8.1,6928,Racing,Electric Assistance
+Merida,2021,Touring,Titanium,27,Hydraulic,Rear,Orange,10.5,6495,Mountain Biking,Integrated Lights
+Cannondale,2016,Touring,Carbon Fiber,24,Disc,Rear,Blue,14.1,7277,Commuting,Integrated Lights
+Trek,2021,Gravel,Steel,23,Hydraulic,Rear,Red,8.1,9218,Mountain Biking,Integrated Lights
+Merida,2020,Hybrid,Aluminum,21,Hydraulic,Front,Black,8.7,7362,Exercise,None
+Specialized,2022,Fat Bike,Steel,21,Hydraulic,Full,Pink,10.4,593,Commuting,None
+Merida,2015,Touring,Titanium,28,Hydraulic,None,Yellow,7.5,6395,Racing,None
+Trek,2016,Road,Aluminum,20,Rim,Front,Yellow,9.3,2624,Commuting,Integrated Lights
+Canyon,2019,BMX,Carbon Fiber,26,Disc,None,Green,7.6,2086,Touring,Electric Assistance
+Trek,2020,Road,Steel,25,Disc,Rear,Blue,10.8,2072,Exercise,Electric Assistance
+Scott,2016,Cyclocross,Carbon Fiber,26,Hydraulic,None,Purple,11.6,9813,Mountain Biking,Electric Assistance
+Bianchi,2021,Electric,Aluminum,20,Rim,Front,Green,13,528,Leisure,None
+Scott,2020,Electric,Carbon Fiber,24,Rim,Front,Blue,14.4,470,Commuting,None
+Giant,2019,Gravel,Carbon Fiber,26,Rim,None,Pink,10.5,314,Commuting,None
+Giant,2019,Touring,Aluminum,24,Hydraulic,None,White,12,2634,Touring,Electric Assistance
+Bianchi,2019,Hybrid,Aluminum,21,Hydraulic,Front,Pink,7.5,6636,Commuting,Integrated Lights
+Bianchi,2022,Fat Bike,Carbon Fiber,20,Disc,Full,Black,10.8,5087,Touring,Electric Assistance
+Yeti,2017,Cyclocross,Aluminum,24,Rim,Rear,Purple,14,2060,Exercise,Integrated Lights
+Trek,2017,Mountain,Steel,23,Disc,Rear,Green,11.7,8748,Commuting,Integrated Lights
+Giant,2021,Electric,Steel,28,Disc,Full,Yellow,10,4463,Leisure,Integrated Lights
+Bianchi,2020,Electric,Aluminum,23,Rim,Full,Grey,7.7,6603,Commuting,None
+Yeti,2018,Mountain,Titanium,27,Hydraulic,Full,Purple,11,9499,Touring,Electric Assistance
+Yeti,2015,Cyclocross,Steel,27,Hydraulic,None,Grey,14.3,2784,Touring,Integrated Lights
+Specialized,2023,Road,Carbon Fiber,23,Rim,Full,Black,7.6,2489,Exercise,Integrated Lights
+Bianchi,2023,Electric,Aluminum,22,Disc,Rear,Black,11.2,3035,Exercise,Integrated Lights
+Scott,2016,Touring,Titanium,24,Rim,Full,Pink,10.4,9529,Leisure,None
+Yeti,2023,Gravel,Steel,27,Disc,Rear,Orange,13.1,9446,Leisure,Integrated Lights
+Trek,2022,Cyclocross,Aluminum,27,Rim,Full,Black,8.2,9962,Leisure,Integrated Lights
+Scott,2020,Hybrid,Titanium,26,Rim,Rear,Grey,8.4,7610,Commuting,Electric Assistance
+Merida,2022,Road,Steel,27,Rim,Front,Blue,12.7,1236,Mountain Biking,None
+Trek,2019,Touring,Aluminum,21,Rim,Front,Black,12.4,4546,Leisure,Integrated Lights
+Canyon,2015,Folding,Titanium,20,Hydraulic,None,Black,11.1,5914,Exercise,Electric Assistance
+Scott,2022,Cyclocross,Carbon Fiber,21,Rim,Full,Orange,7,1260,Mountain Biking,None
+Cannondale,2017,BMX,Titanium,28,Disc,Full,White,13.8,6599,Leisure,Electric Assistance
+Scott,2018,Touring,Titanium,28,Disc,Rear,Black,14.9,5295,Leisure,Integrated Lights
+Canyon,2020,Fat Bike,Carbon Fiber,21,Disc,Rear,White,12.3,8299,Racing,None
+Giant,2019,Road,Titanium,27,Rim,Front,Green,14.5,2888,Racing,Electric Assistance
+Giant,2015,Electric,Aluminum,24,Hydraulic,Rear,Green,13.1,9532,Leisure,Integrated Lights
+Yeti,2019,Hybrid,Steel,21,Disc,Full,Pink,12.5,1736,Racing,Electric Assistance
+Bianchi,2020,Touring,Steel,28,Hydraulic,Rear,Green,9.8,8095,Exercise,Integrated Lights
+Santa Cruz,2023,Electric,Aluminum,20,Disc,Front,White,7.6,6081,Racing,Electric Assistance
+Trek,2016,Folding,Steel,22,Hydraulic,None,Yellow,7.3,3477,Touring,Electric Assistance
+Bianchi,2019,Road,Steel,26,Disc,None,Green,10.6,9445,Exercise,Integrated Lights
+Santa Cruz,2023,Cyclocross,Aluminum,24,Hydraulic,Front,Purple,10.7,7920,Racing,Electric Assistance
+Scott,2015,Hybrid,Titanium,25,Rim,Front,Purple,10.1,7639,Mountain Biking,Electric Assistance
+Yeti,2016,Folding,Steel,26,Hydraulic,Rear,Orange,7.2,1283,Leisure,Electric Assistance
+Scott,2016,Touring,Carbon Fiber,20,Disc,None,Purple,8.6,385,Leisure,Integrated Lights
+Specialized,2023,Gravel,Steel,26,Disc,None,White,8.1,4558,Mountain Biking,None
+Giant,2019,Road,Titanium,24,Rim,Front,Black,7.1,2994,Commuting,Electric Assistance
+Giant,2015,BMX,Aluminum,27,Disc,Full,Red,12,9060,Leisure,None
+Merida,2018,Gravel,Aluminum,21,Hydraulic,Full,Green,7.8,3305,Commuting,Electric Assistance
+Cannondale,2015,Mountain,Aluminum,28,Rim,Front,Pink,8.2,8846,Racing,Integrated Lights
+Santa Cruz,2022,Touring,Carbon Fiber,25,Disc,Rear,Orange,7.8,2629,Racing,Integrated Lights
+Cannondale,2015,Hybrid,Steel,28,Disc,Full,Green,13.1,5304,Leisure,None
+Giant,2023,Touring,Aluminum,25,Hydraulic,Front,Pink,14.1,5862,Exercise,Electric Assistance
+Santa Cruz,2016,Fat Bike,Titanium,25,Hydraulic,Rear,Pink,8,7097,Commuting,Integrated Lights
+Yeti,2017,Touring,Aluminum,20,Hydraulic,Front,Pink,11.9,9175,Touring,Electric Assistance
+Cannondale,2023,Electric,Aluminum,27,Hydraulic,None,Blue,12,382,Exercise,Electric Assistance
+Yeti,2020,Fat Bike,Steel,28,Disc,Front,Purple,9.3,1193,Leisure,Electric Assistance
+Specialized,2023,BMX,Steel,25,Hydraulic,Rear,Black,11.7,2832,Leisure,Integrated Lights
+Canyon,2017,Folding,Steel,20,Rim,Rear,Grey,10.5,9172,Racing,None
+Santa Cruz,2016,BMX,Titanium,27,Rim,Rear,Red,7.9,7430,Mountain Biking,Electric Assistance
+Trek,2018,Electric,Steel,28,Disc,Rear,White,14.7,9226,Mountain Biking,Electric Assistance
+Trek,2020,Electric,Steel,26,Hydraulic,Full,Black,12.4,1255,Commuting,Integrated Lights
+Giant,2015,Hybrid,Steel,20,Disc,None,Green,14.6,8672,Exercise,Electric Assistance
+Specialized,2017,Electric,Aluminum,20,Disc,None,Yellow,8.2,8188,Touring,Electric Assistance
+Merida,2020,Touring,Titanium,24,Rim,Front,Green,13.4,6540,Exercise,None
+Merida,2023,Gravel,Carbon Fiber,25,Hydraulic,Rear,Green,10.4,4077,Racing,Electric Assistance
+Canyon,2021,BMX,Titanium,24,Disc,Rear,Blue,14.4,2620,Touring,None
+Canyon,2017,Road,Aluminum,21,Rim,Front,Red,12.5,4233,Touring,Electric Assistance
+Yeti,2022,Hybrid,Carbon Fiber,23,Rim,Front,Red,8.2,2953,Mountain Biking,Electric Assistance
+Bianchi,2022,Cyclocross,Titanium,24,Disc,Rear,Yellow,7.3,7633,Commuting,None
+Bianchi,2016,Gravel,Aluminum,26,Hydraulic,None,Green,8,6061,Mountain Biking,Integrated Lights
+Yeti,2023,Hybrid,Aluminum,20,Hydraulic,Full,Yellow,12.7,988,Touring,Integrated Lights
+Trek,2019,Electric,Carbon Fiber,24,Disc,None,Pink,7.1,3684,Racing,Electric Assistance
+Bianchi,2018,BMX,Aluminum,21,Rim,Rear,Pink,10.8,3994,Commuting,None
+Canyon,2018,Electric,Carbon Fiber,21,Hydraulic,None,Blue,11.4,3388,Leisure,Integrated Lights
+Bianchi,2017,BMX,Titanium,21,Disc,Full,Purple,13.5,5033,Touring,Integrated Lights
+Merida,2015,Mountain,Carbon Fiber,26,Hydraulic,Full,Purple,10.6,8144,Touring,Integrated Lights
+Bianchi,2019,Gravel,Carbon Fiber,26,Disc,Rear,Green,7,9286,Touring,Integrated Lights
+Giant,2021,Cyclocross,Aluminum,21,Hydraulic,None,Grey,8.8,588,Commuting,Integrated Lights
+Canyon,2019,BMX,Steel,23,Rim,Rear,Grey,7.4,8150,Touring,Electric Assistance
+Specialized,2018,Hybrid,Aluminum,23,Disc,None,Black,14.8,5097,Touring,Integrated Lights
+Yeti,2017,Mountain,Aluminum,26,Disc,Full,Green,12.1,6581,Touring,Electric Assistance
+Scott,2018,BMX,Titanium,24,Disc,None,Orange,7,6206,Touring,Integrated Lights
+Merida,2016,Gravel,Carbon Fiber,24,Disc,Rear,Yellow,7.3,4304,Leisure,None
+Cannondale,2016,Gravel,Titanium,21,Hydraulic,Front,Black,8.8,7293,Commuting,Integrated Lights
+Trek,2017,Folding,Titanium,24,Disc,Rear,Purple,13.2,3490,Exercise,Integrated Lights
+Bianchi,2022,Fat Bike,Carbon Fiber,23,Rim,Rear,Red,10.2,9535,Mountain Biking,Integrated Lights
+Cannondale,2017,Fat Bike,Titanium,25,Hydraulic,Rear,Blue,11,581,Exercise,None
+Yeti,2022,BMX,Steel,24,Hydraulic,Rear,Black,14,6853,Racing,Integrated Lights
+Bianchi,2015,Electric,Carbon Fiber,20,Disc,Front,Green,14.1,6071,Commuting,Integrated Lights
+Scott,2016,Gravel,Titanium,21,Rim,Full,Red,10.4,5341,Mountain Biking,None
+Scott,2023,Road,Steel,21,Rim,Front,Red,13.1,9360,Mountain Biking,None
+Specialized,2015,Road,Aluminum,21,Hydraulic,Front,Yellow,8.9,1723,Mountain Biking,None
+Yeti,2020,Road,Carbon Fiber,27,Disc,Rear,White,8.4,9695,Mountain Biking,Electric Assistance
+Canyon,2017,Road,Aluminum,28,Hydraulic,Rear,Grey,14.8,2310,Racing,Electric Assistance
+Merida,2023,Gravel,Titanium,22,Disc,None,Yellow,12.1,4680,Mountain Biking,None
+Scott,2015,Cyclocross,Steel,25,Rim,Rear,Grey,12.3,1416,Leisure,None
+Specialized,2019,Cyclocross,Steel,22,Disc,Front,Red,14,9329,Racing,Electric Assistance
+Santa Cruz,2015,Fat Bike,Steel,23,Disc,Rear,Pink,7.2,9603,Exercise,None
+Merida,2018,Hybrid,Aluminum,20,Disc,Rear,Purple,9.3,7411,Exercise,None
+Yeti,2023,Road,Steel,27,Hydraulic,Front,Orange,12.8,647,Touring,Integrated Lights
+Specialized,2016,Electric,Steel,23,Hydraulic,None,Green,10.6,4809,Touring,Electric Assistance
+Giant,2021,Mountain,Aluminum,24,Hydraulic,Full,Purple,14.5,7094,Racing,Electric Assistance
+Santa Cruz,2019,Fat Bike,Aluminum,21,Hydraulic,Front,Yellow,10.6,4942,Mountain Biking,Electric Assistance
+Yeti,2021,Fat Bike,Steel,26,Hydraulic,Rear,Black,8,3914,Racing,Electric Assistance
+Giant,2021,Road,Titanium,24,Rim,None,Yellow,14.3,2402,Commuting,None
+Canyon,2019,Electric,Titanium,26,Rim,Full,Green,7,4997,Exercise,None
+Canyon,2022,Folding,Carbon Fiber,21,Disc,Rear,White,13.1,8204,Mountain Biking,Electric Assistance
+Yeti,2017,Electric,Steel,28,Rim,Front,Red,7.1,9357,Leisure,Electric Assistance
+Merida,2023,Fat Bike,Carbon Fiber,21,Hydraulic,Full,Purple,10.7,8932,Racing,None
+Specialized,2015,Road,Aluminum,20,Disc,Rear,Red,8.6,4671,Exercise,Integrated Lights
+Merida,2023,Fat Bike,Aluminum,22,Rim,Front,Black,14.6,3601,Exercise,None
+Canyon,2021,Gravel,Aluminum,21,Disc,Rear,Yellow,10.2,9389,Leisure,None
+Trek,2017,Touring,Aluminum,28,Hydraulic,Rear,Blue,7.2,1578,Commuting,None
+Giant,2021,Cyclocross,Titanium,25,Hydraulic,Front,Purple,13.2,3937,Leisure,None
+Bianchi,2020,Hybrid,Aluminum,25,Rim,Full,Red,9.5,5620,Commuting,Electric Assistance
+Scott,2018,Cyclocross,Aluminum,28,Hydraulic,Full,White,12.1,7633,Racing,Integrated Lights
+Specialized,2022,Gravel,Titanium,28,Disc,None,Grey,10.2,6879,Commuting,None
+Scott,2023,Mountain,Aluminum,21,Disc,Full,Black,10.5,4869,Touring,None
+Santa Cruz,2018,Road,Carbon Fiber,25,Disc,Front,Black,9.1,7784,Commuting,None
+Trek,2023,Hybrid,Steel,20,Rim,Front,Purple,13.3,2981,Racing,None
+Giant,2023,Cyclocross,Steel,25,Disc,Front,Grey,10.7,8931,Commuting,None
+Specialized,2019,Gravel,Aluminum,20,Disc,None,Pink,7.3,2508,Leisure,Integrated Lights
+Scott,2019,Hybrid,Aluminum,23,Hydraulic,Rear,Yellow,14.6,7199,Leisure,Electric Assistance
+Scott,2016,Electric,Aluminum,26,Rim,None,White,11,876,Commuting,None
+Scott,2015,BMX,Titanium,25,Rim,Front,Pink,10.9,8317,Touring,Electric Assistance
+Trek,2022,Cyclocross,Steel,20,Rim,Full,White,9.8,2858,Leisure,None
+Trek,2021,Folding,Carbon Fiber,25,Rim,Rear,Yellow,12.1,8193,Leisure,Electric Assistance
+Bianchi,2017,Gravel,Titanium,24,Hydraulic,Rear,White,10.2,1646,Touring,Electric Assistance
+Scott,2016,Fat Bike,Titanium,22,Rim,None,Green,13,2989,Mountain Biking,Electric Assistance
+Canyon,2015,Touring,Titanium,28,Rim,None,Black,14,5122,Mountain Biking,None
+Merida,2021,Road,Carbon Fiber,25,Disc,Full,Purple,10.9,6848,Exercise,None
+Giant,2016,Road,Carbon Fiber,23,Rim,None,Pink,12.2,7594,Mountain Biking,None
+Giant,2021,Hybrid,Steel,27,Rim,Full,Black,9.4,6325,Touring,None
+Cannondale,2022,Folding,Carbon Fiber,20,Hydraulic,Full,Black,12,2905,Touring,Electric Assistance
+Specialized,2016,Mountain,Aluminum,20,Rim,Rear,Blue,12.1,8803,Leisure,None
+Cannondale,2020,Cyclocross,Aluminum,22,Rim,Full,Purple,11.1,4459,Touring,Integrated Lights
+Specialized,2017,Fat Bike,Steel,25,Hydraulic,Full,Orange,8.3,5020,Touring,Integrated Lights
+Giant,2015,Cyclocross,Carbon Fiber,23,Hydraulic,Front,Blue,12.8,4724,Racing,Electric Assistance
+Scott,2017,Hybrid,Steel,23,Rim,Rear,Grey,9.6,1187,Leisure,None
+Specialized,2021,BMX,Steel,22,Hydraulic,Rear,Black,10.1,3260,Commuting,None
+Specialized,2021,BMX,Carbon Fiber,21,Rim,Full,Orange,13.8,6734,Exercise,Electric Assistance
+Trek,2018,BMX,Titanium,22,Disc,Full,Grey,12.4,5209,Touring,Integrated Lights
+Yeti,2020,Touring,Carbon Fiber,22,Hydraulic,Front,Green,7.7,3274,Mountain Biking,Electric Assistance
+Bianchi,2019,Cyclocross,Aluminum,23,Hydraulic,None,White,11.5,463,Mountain Biking,None
+Scott,2022,Fat Bike,Carbon Fiber,22,Hydraulic,Rear,Green,7.7,9702,Exercise,Electric Assistance
+Giant,2018,Cyclocross,Titanium,24,Rim,Rear,Orange,12.2,482,Touring,Integrated Lights
+Santa Cruz,2017,Mountain,Carbon Fiber,25,Disc,Front,Grey,10.2,5297,Touring,Integrated Lights
+Canyon,2021,Touring,Aluminum,23,Disc,Full,Pink,13.5,5028,Exercise,Integrated Lights
+Giant,2016,Electric,Aluminum,21,Rim,Rear,Pink,13.2,1272,Commuting,None
+Cannondale,2020,Electric,Titanium,22,Hydraulic,Front,White,15,390,Commuting,None
+Merida,2016,Mountain,Titanium,23,Disc,Full,Green,9.4,9999,Mountain Biking,Electric Assistance
+Bianchi,2018,Fat Bike,Aluminum,28,Disc,Rear,Purple,8.4,3587,Mountain Biking,Integrated Lights
+Specialized,2016,Road,Aluminum,23,Rim,Front,Pink,8.5,1577,Commuting,Electric Assistance
+Scott,2015,Fat Bike,Carbon Fiber,21,Hydraulic,None,Red,11.8,2158,Exercise,Integrated Lights
+Trek,2022,Gravel,Steel,27,Hydraulic,None,White,9.7,425,Exercise,None
+Bianchi,2018,Folding,Steel,21,Disc,Front,White,14.3,7951,Mountain Biking,Integrated Lights
+Giant,2021,Road,Titanium,20,Hydraulic,Full,Green,7.6,863,Exercise,Electric Assistance
+Merida,2019,BMX,Titanium,21,Rim,None,Orange,13.1,8766,Racing,Electric Assistance
+Santa Cruz,2019,BMX,Steel,28,Rim,Rear,White,10.9,6699,Exercise,Integrated Lights
+Santa Cruz,2018,Gravel,Aluminum,22,Disc,Front,Grey,12.1,7014,Commuting,None
+Specialized,2020,Mountain,Titanium,20,Rim,Full,Red,11.7,3149,Touring,Integrated Lights
+Yeti,2019,Road,Carbon Fiber,26,Disc,Front,White,11.2,2515,Racing,None
+Bianchi,2019,Gravel,Steel,24,Hydraulic,Full,Blue,12.6,9343,Touring,None
+Canyon,2015,Folding,Carbon Fiber,21,Disc,Front,Orange,11.4,3199,Exercise,None
+Scott,2015,Touring,Carbon Fiber,27,Rim,Rear,Purple,14.4,5936,Mountain Biking,Integrated Lights
+Yeti,2020,Hybrid,Aluminum,23,Disc,Rear,Orange,11.4,9719,Touring,Electric Assistance
+Giant,2015,Mountain,Titanium,21,Hydraulic,Full,Pink,14.4,6033,Mountain Biking,Integrated Lights
+Santa Cruz,2021,Hybrid,Titanium,23,Rim,Front,White,13.5,1409,Leisure,Electric Assistance
+Giant,2018,Mountain,Titanium,23,Hydraulic,None,Blue,13.8,3377,Mountain Biking,Electric Assistance
+Canyon,2023,Road,Aluminum,22,Disc,Full,White,14.2,8469,Mountain Biking,None
+Scott,2021,Mountain,Carbon Fiber,27,Disc,Full,Grey,8.6,6074,Touring,Electric Assistance
+Yeti,2017,Folding,Carbon Fiber,23,Rim,Full,Pink,9.7,1714,Mountain Biking,Integrated Lights
+Giant,2016,Gravel,Carbon Fiber,21,Hydraulic,Front,Yellow,14.2,9078,Exercise,Integrated Lights
+Trek,2022,Gravel,Carbon Fiber,23,Hydraulic,None,Green,8.2,8601,Leisure,None
+Santa Cruz,2022,Cyclocross,Titanium,28,Disc,Full,Red,10.9,3587,Mountain Biking,Electric Assistance
+Merida,2021,Fat Bike,Titanium,23,Rim,None,Orange,7.8,2542,Exercise,Electric Assistance
+Giant,2022,BMX,Carbon Fiber,26,Hydraulic,None,Orange,8.2,5122,Mountain Biking,Electric Assistance
+Yeti,2020,Folding,Carbon Fiber,24,Disc,Front,Green,11.7,4604,Exercise,Integrated Lights
+Santa Cruz,2023,Road,Aluminum,27,Disc,Full,Green,10.2,5539,Commuting,None
+Santa Cruz,2023,Hybrid,Titanium,25,Disc,Full,Orange,10.4,1372,Racing,Integrated Lights
+Bianchi,2016,Road,Titanium,27,Hydraulic,None,Blue,11.1,2670,Commuting,None
+Trek,2019,Electric,Carbon Fiber,22,Hydraulic,Rear,Purple,12.3,9332,Leisure,Integrated Lights
+Bianchi,2021,Electric,Titanium,22,Disc,Rear,Yellow,11,8705,Racing,Electric Assistance
+Giant,2019,Mountain,Titanium,21,Disc,Full,Pink,9.7,7351,Leisure,Integrated Lights
+Canyon,2017,Gravel,Carbon Fiber,23,Hydraulic,Rear,Grey,8.5,3551,Mountain Biking,Electric Assistance
+Merida,2022,Fat Bike,Steel,22,Rim,Full,Grey,10.7,8837,Racing,None
+Giant,2023,Touring,Steel,25,Rim,None,Black,10,9220,Touring,Integrated Lights
+Cannondale,2020,Road,Steel,27,Hydraulic,None,White,13.5,8791,Exercise,None
+Yeti,2022,BMX,Titanium,20,Hydraulic,Rear,Purple,7.1,9755,Mountain Biking,None
+Trek,2021,Gravel,Aluminum,26,Disc,Full,White,11.6,5751,Racing,None
+Giant,2018,Folding,Titanium,26,Rim,Rear,Yellow,11.9,5516,Leisure,Integrated Lights
+Trek,2018,Mountain,Carbon Fiber,21,Disc,Front,Green,14.9,1185,Commuting,Electric Assistance
+Giant,2022,BMX,Aluminum,20,Hydraulic,Full,Orange,14.1,7427,Exercise,Electric Assistance
+Canyon,2017,BMX,Carbon Fiber,26,Disc,None,Grey,11.1,1470,Touring,None
+Specialized,2023,Hybrid,Aluminum,25,Rim,Full,Yellow,9.3,1229,Exercise,Electric Assistance
+Merida,2016,Gravel,Aluminum,27,Disc,Front,Pink,7.1,6749,Racing,Electric Assistance
+Cannondale,2018,Gravel,Aluminum,26,Disc,None,Orange,8.9,3160,Leisure,Electric Assistance
+Merida,2017,Gravel,Aluminum,26,Disc,Front,Pink,13.8,6734,Touring,Integrated Lights
+Scott,2016,Fat Bike,Steel,27,Hydraulic,None,Yellow,14.8,9031,Exercise,None
+Merida,2022,Cyclocross,Aluminum,21,Rim,Front,Black,12.6,5295,Exercise,Integrated Lights
+Specialized,2023,Touring,Aluminum,27,Rim,Front,White,11.8,1140,Mountain Biking,None
+Giant,2022,BMX,Carbon Fiber,27,Disc,Front,Yellow,11.8,5357,Mountain Biking,Electric Assistance
+Cannondale,2020,Folding,Carbon Fiber,23,Rim,Rear,Green,12.2,5243,Touring,None
+Scott,2022,Cyclocross,Steel,28,Hydraulic,Rear,Purple,7,8034,Racing,Integrated Lights
+Merida,2022,BMX,Aluminum,27,Disc,Rear,Orange,10,3367,Exercise,Electric Assistance
+Yeti,2016,BMX,Carbon Fiber,27,Hydraulic,None,Green,9.6,1625,Exercise,Integrated Lights
+Scott,2020,Electric,Aluminum,21,Disc,Rear,Pink,14.8,3424,Commuting,Electric Assistance
+Merida,2021,Road,Aluminum,26,Disc,Rear,Black,7,8105,Mountain Biking,None
+Scott,2020,Fat Bike,Titanium,28,Hydraulic,None,Grey,12.9,3363,Mountain Biking,None
+Specialized,2023,Electric,Aluminum,20,Disc,Front,Grey,10.2,3092,Leisure,Integrated Lights
+Cannondale,2023,Gravel,Carbon Fiber,24,Hydraulic,Full,Black,7.5,696,Commuting,Integrated Lights
+Yeti,2016,Road,Titanium,23,Disc,Rear,Red,9.9,6846,Commuting,Electric Assistance
+Cannondale,2020,Cyclocross,Titanium,28,Hydraulic,Full,Grey,8,4231,Commuting,Electric Assistance
+Giant,2017,BMX,Carbon Fiber,26,Rim,Front,Pink,7.3,7943,Commuting,None
+Merida,2020,Folding,Aluminum,26,Rim,Full,Orange,12.5,7489,Mountain Biking,None
+Yeti,2016,Electric,Aluminum,24,Disc,Front,Purple,7.2,444,Mountain Biking,None
+Canyon,2023,Road,Aluminum,24,Rim,Full,White,7.1,6098,Commuting,None
+Canyon,2016,BMX,Titanium,27,Hydraulic,None,Red,10.4,1520,Mountain Biking,Electric Assistance
+Cannondale,2022,Hybrid,Carbon Fiber,20,Hydraulic,None,Blue,8,8259,Racing,Electric Assistance
+Giant,2023,Road,Titanium,22,Hydraulic,Full,Orange,10.6,9743,Mountain Biking,None
+Canyon,2020,Electric,Titanium,27,Hydraulic,None,Green,9.9,1211,Racing,Electric Assistance
+Trek,2015,Road,Aluminum,24,Disc,Front,White,7.8,408,Mountain Biking,None
+Bianchi,2016,Electric,Steel,23,Hydraulic,Front,Pink,12.1,2807,Leisure,Electric Assistance
+Trek,2020,Hybrid,Aluminum,20,Disc,Rear,White,12.2,6312,Mountain Biking,None
+Yeti,2016,Road,Steel,23,Rim,Front,Red,12.2,2125,Exercise,None
+Canyon,2019,Hybrid,Carbon Fiber,20,Rim,Rear,Green,13.9,5825,Leisure,Electric Assistance
+Santa Cruz,2023,Folding,Titanium,25,Rim,Rear,Red,7.1,4730,Touring,None
+Merida,2017,Road,Aluminum,21,Rim,Front,Pink,7.2,7933,Racing,Integrated Lights
+Canyon,2023,Touring,Carbon Fiber,22,Hydraulic,None,Black,11.2,4624,Racing,Electric Assistance
+Santa Cruz,2018,BMX,Steel,21,Hydraulic,Full,Yellow,10.7,6937,Exercise,Integrated Lights
+Cannondale,2018,BMX,Titanium,23,Disc,None,Orange,14.9,1942,Leisure,Integrated Lights
+Yeti,2022,Folding,Titanium,24,Hydraulic,Rear,White,9.9,785,Leisure,None
+Specialized,2019,Folding,Carbon Fiber,22,Rim,Rear,Purple,10.1,7753,Mountain Biking,Electric Assistance
+Merida,2023,Folding,Carbon Fiber,23,Disc,Rear,Pink,13.7,2830,Racing,None
+Cannondale,2018,Gravel,Carbon Fiber,21,Rim,Front,Pink,12,2415,Leisure,None
+Cannondale,2018,Hybrid,Aluminum,21,Hydraulic,Front,Yellow,7.6,6072,Mountain Biking,None
+Santa Cruz,2016,Cyclocross,Titanium,26,Disc,Full,Orange,7.5,2575,Mountain Biking,Electric Assistance
+Canyon,2022,Gravel,Carbon Fiber,24,Disc,None,Purple,11.2,3922,Exercise,None
+Scott,2020,Hybrid,Steel,28,Hydraulic,None,Purple,10.2,4770,Exercise,Electric Assistance
+Cannondale,2020,Road,Aluminum,23,Disc,Rear,White,12.9,5208,Commuting,None
+Cannondale,2022,Fat Bike,Steel,21,Disc,Full,Red,12,510,Commuting,None
+Specialized,2022,Mountain,Titanium,20,Disc,Front,White,7,8573,Exercise,Integrated Lights
+Trek,2018,Cyclocross,Titanium,21,Hydraulic,Rear,Purple,7.1,3277,Touring,Electric Assistance
+Merida,2017,Fat Bike,Steel,27,Hydraulic,None,Pink,13.7,4117,Racing,Integrated Lights
+Trek,2016,Cyclocross,Aluminum,20,Rim,Front,Orange,8.3,3429,Exercise,Electric Assistance
+Cannondale,2017,Touring,Carbon Fiber,28,Disc,None,Black,11.6,9058,Leisure,Electric Assistance
+Bianchi,2020,Gravel,Carbon Fiber,24,Disc,Rear,Purple,14.5,6584,Racing,Integrated Lights
+Giant,2023,Fat Bike,Carbon Fiber,27,Disc,Front,Black,14.7,505,Mountain Biking,Electric Assistance
+Trek,2023,Road,Carbon Fiber,21,Rim,Front,Grey,13.8,2350,Leisure,Electric Assistance
+Bianchi,2023,Folding,Carbon Fiber,28,Rim,Full,Black,14.1,4487,Commuting,Electric Assistance
+Bianchi,2017,Mountain,Steel,28,Rim,Full,Pink,14.2,3564,Leisure,Integrated Lights
+Specialized,2017,Mountain,Steel,21,Rim,Front,White,7.6,7188,Commuting,None
+Trek,2023,BMX,Aluminum,24,Rim,Rear,Pink,13.9,3606,Mountain Biking,Electric Assistance
+Santa Cruz,2019,Road,Titanium,21,Disc,Full,Grey,10.3,5441,Touring,None
+Bianchi,2016,BMX,Carbon Fiber,21,Rim,Rear,Grey,7.3,673,Exercise,None
+Cannondale,2016,Mountain,Titanium,25,Disc,Front,Blue,11.3,3907,Exercise,Electric Assistance
+Giant,2015,BMX,Carbon Fiber,20,Rim,None,Green,7.9,5501,Commuting,Electric Assistance
+Santa Cruz,2017,Mountain,Carbon Fiber,24,Rim,Full,Yellow,7.6,8137,Exercise,None
+Giant,2016,Gravel,Steel,28,Hydraulic,None,Yellow,10.7,5134,Commuting,None
+Bianchi,2022,Electric,Aluminum,27,Hydraulic,Front,Grey,9.5,9942,Touring,Integrated Lights
+Canyon,2015,Folding,Carbon Fiber,24,Disc,Rear,Purple,14.1,2503,Touring,Integrated Lights
+Scott,2017,Gravel,Titanium,25,Disc,Full,Yellow,9.5,2002,Leisure,Electric Assistance
+Canyon,2018,Cyclocross,Aluminum,20,Hydraulic,Full,Yellow,13.6,7714,Exercise,Electric Assistance
+Giant,2019,Folding,Steel,22,Disc,Rear,Orange,7,3893,Mountain Biking,Integrated Lights
+Canyon,2018,Road,Carbon Fiber,22,Disc,Front,Orange,14.6,5329,Racing,Integrated Lights
+Cannondale,2015,Gravel,Steel,21,Rim,Rear,Blue,7.4,9179,Commuting,Electric Assistance
+Canyon,2015,Fat Bike,Carbon Fiber,21,Hydraulic,Front,Grey,9.1,8474,Mountain Biking,None
+Santa Cruz,2021,BMX,Titanium,28,Rim,Front,Purple,7.2,2379,Mountain Biking,Integrated Lights
+Santa Cruz,2019,Electric,Aluminum,23,Rim,Rear,Yellow,14.7,992,Exercise,None
+Merida,2018,Road,Titanium,23,Hydraulic,Front,Yellow,7.4,7488,Exercise,Integrated Lights
+Scott,2018,Road,Carbon Fiber,26,Hydraulic,Full,Pink,9.8,7612,Mountain Biking,Integrated Lights
+Canyon,2016,Touring,Carbon Fiber,28,Rim,Full,Yellow,12.3,346,Mountain Biking,Integrated Lights
+Santa Cruz,2015,BMX,Steel,24,Disc,Full,Blue,9.6,383,Mountain Biking,None
+Specialized,2022,Folding,Aluminum,24,Disc,Full,Pink,7.1,2236,Leisure,None
+Giant,2023,Cyclocross,Titanium,25,Hydraulic,None,Green,8.9,1393,Leisure,Integrated Lights
+Giant,2021,Electric,Aluminum,28,Rim,Full,Green,12.7,8254,Touring,None
+Bianchi,2017,BMX,Carbon Fiber,24,Hydraulic,Full,Grey,10,9606,Leisure,None
+Merida,2023,Hybrid,Titanium,27,Hydraulic,Full,Red,13.6,869,Commuting,None
+Santa Cruz,2023,Touring,Steel,28,Disc,Full,Blue,12.9,3958,Commuting,Electric Assistance
+Santa Cruz,2021,Mountain,Carbon Fiber,22,Rim,None,Green,11.7,4210,Leisure,None
+Canyon,2019,BMX,Steel,24,Rim,Front,Blue,7.8,6738,Mountain Biking,Electric Assistance
+Trek,2016,Touring,Titanium,21,Rim,Full,Yellow,14.9,1959,Touring,Electric Assistance
+Merida,2023,BMX,Titanium,25,Disc,Full,Purple,11.2,3472,Touring,Electric Assistance
+Yeti,2020,Cyclocross,Carbon Fiber,25,Rim,Front,Blue,9.1,6193,Exercise,Electric Assistance
+Santa Cruz,2019,Mountain,Carbon Fiber,21,Hydraulic,Front,Yellow,11.8,5148,Leisure,Electric Assistance
+Specialized,2018,Hybrid,Steel,28,Disc,Front,Green,12.7,6783,Exercise,None
+Santa Cruz,2020,Folding,Carbon Fiber,28,Hydraulic,Front,Pink,10.7,1830,Racing,None
+Canyon,2022,BMX,Aluminum,28,Hydraulic,None,Grey,12.1,5906,Leisure,Integrated Lights
+Canyon,2021,Hybrid,Aluminum,20,Rim,None,Pink,7.9,9848,Mountain Biking,Integrated Lights
+Bianchi,2021,Cyclocross,Steel,20,Disc,Front,Purple,14,7691,Mountain Biking,Integrated Lights
+Yeti,2018,BMX,Steel,25,Hydraulic,Front,Pink,12.4,9638,Leisure,None
+Santa Cruz,2018,Cyclocross,Carbon Fiber,23,Rim,Rear,Orange,13.2,9311,Racing,None
+Giant,2017,Mountain,Carbon Fiber,25,Hydraulic,None,White,7.9,3449,Mountain Biking,None
+Cannondale,2022,Fat Bike,Aluminum,24,Hydraulic,Rear,Red,11.2,1081,Commuting,None
+Merida,2018,Mountain,Steel,21,Rim,Front,Pink,12.5,3948,Commuting,Electric Assistance
+Merida,2020,Cyclocross,Steel,21,Hydraulic,None,Orange,11.2,6264,Commuting,Integrated Lights
+Giant,2023,Fat Bike,Aluminum,22,Disc,None,Blue,7.8,9832,Commuting,Integrated Lights
+Cannondale,2018,Touring,Steel,23,Rim,None,Yellow,7.5,1525,Mountain Biking,Electric Assistance
+Santa Cruz,2023,Fat Bike,Carbon Fiber,25,Disc,Front,Black,11.9,7559,Touring,None
+Scott,2020,BMX,Steel,22,Disc,Full,Black,13.4,9492,Mountain Biking,Integrated Lights
+Specialized,2015,Hybrid,Steel,23,Disc,Full,Pink,15,7966,Touring,Electric Assistance
+Santa Cruz,2022,Hybrid,Carbon Fiber,21,Hydraulic,None,Blue,11.5,6867,Racing,Integrated Lights
+Bianchi,2015,Gravel,Carbon Fiber,27,Rim,None,White,8.8,6246,Racing,Integrated Lights
+Giant,2016,Electric,Aluminum,23,Hydraulic,None,Green,10.2,4387,Mountain Biking,None
+Santa Cruz,2021,Touring,Aluminum,24,Disc,None,Orange,7.9,5435,Touring,None
+Bianchi,2021,Touring,Aluminum,20,Rim,Front,Yellow,10.3,8579,Exercise,None
+Scott,2019,Cyclocross,Titanium,21,Hydraulic,Full,Yellow,13.7,2187,Mountain Biking,None
+Specialized,2020,Cyclocross,Titanium,28,Hydraulic,None,Green,10.1,4055,Mountain Biking,Electric Assistance
+Yeti,2022,BMX,Steel,21,Hydraulic,Full,Red,7.4,2814,Touring,Electric Assistance
+Bianchi,2021,Electric,Carbon Fiber,27,Hydraulic,Front,Orange,8.3,866,Exercise,Electric Assistance
+Specialized,2015,Folding,Steel,25,Rim,Full,Orange,12.4,8732,Leisure,None
+Cannondale,2016,Road,Carbon Fiber,22,Rim,Rear,Pink,12.5,4139,Racing,Integrated Lights
+Specialized,2021,Touring,Carbon Fiber,24,Rim,None,Pink,8.6,3730,Exercise,Integrated Lights
+Specialized,2021,Cyclocross,Steel,21,Rim,Rear,White,13.5,1166,Exercise,Electric Assistance
+Yeti,2019,Cyclocross,Steel,28,Hydraulic,Full,Blue,9.2,2664,Racing,None
+Santa Cruz,2017,BMX,Titanium,23,Disc,Rear,Red,11.4,2733,Racing,Electric Assistance
+Trek,2017,Touring,Steel,21,Hydraulic,Front,Yellow,9.5,9539,Racing,None
+Scott,2019,Fat Bike,Carbon Fiber,21,Hydraulic,Front,Blue,12.5,4644,Exercise,None
+Specialized,2019,Fat Bike,Carbon Fiber,20,Rim,Front,Purple,10,8910,Exercise,None
+Specialized,2018,Electric,Steel,22,Hydraulic,Front,Black,13.1,8527,Racing,None
+Canyon,2016,Gravel,Carbon Fiber,21,Hydraulic,Rear,Black,10.9,7276,Mountain Biking,None
+Canyon,2015,Electric,Titanium,20,Hydraulic,None,White,12.1,3143,Mountain Biking,Integrated Lights
+Trek,2021,Mountain,Carbon Fiber,26,Rim,Front,Yellow,14.4,9736,Mountain Biking,Integrated Lights
+Cannondale,2021,BMX,Steel,25,Rim,Full,Black,10.5,8122,Leisure,None
+Giant,2015,Cyclocross,Carbon Fiber,26,Hydraulic,Front,Grey,11.4,2442,Leisure,Integrated Lights
+Yeti,2023,Touring,Aluminum,26,Disc,Rear,Pink,8.5,6069,Leisure,Integrated Lights
+Merida,2020,Fat Bike,Steel,25,Rim,Full,Blue,12.5,1207,Touring,Integrated Lights
+Cannondale,2017,Cyclocross,Titanium,28,Rim,Full,Grey,8.7,1285,Commuting,Integrated Lights
+Scott,2023,Touring,Aluminum,21,Disc,Full,Pink,12.5,387,Mountain Biking,Electric Assistance
+Merida,2019,Electric,Aluminum,27,Disc,Rear,Orange,14.4,2208,Mountain Biking,Integrated Lights
+Trek,2019,BMX,Aluminum,26,Hydraulic,None,Blue,14.5,5003,Exercise,None
+Canyon,2015,Cyclocross,Titanium,23,Hydraulic,Full,Black,13.4,8436,Touring,Electric Assistance
+Merida,2017,Fat Bike,Aluminum,26,Rim,None,Red,11.3,1982,Exercise,None
+Cannondale,2020,Folding,Aluminum,24,Disc,Front,Black,13.7,6076,Touring,Electric Assistance
+Scott,2022,Cyclocross,Titanium,26,Hydraulic,Front,Orange,10.7,698,Exercise,Electric Assistance
+Yeti,2022,BMX,Aluminum,26,Disc,None,White,10,4653,Racing,Electric Assistance
+Giant,2016,Hybrid,Steel,27,Disc,Rear,Grey,12.6,3943,Touring,None
+Trek,2018,BMX,Steel,20,Rim,None,Purple,8.7,6910,Touring,Electric Assistance
+Santa Cruz,2017,Fat Bike,Carbon Fiber,23,Hydraulic,Rear,Red,7.6,5318,Racing,Electric Assistance
+Scott,2015,Mountain,Steel,22,Rim,Front,Yellow,9.9,5793,Leisure,Integrated Lights
+Trek,2018,Folding,Aluminum,23,Disc,Front,Green,9.7,3669,Racing,Integrated Lights
+Cannondale,2017,Fat Bike,Steel,27,Rim,Full,Orange,8,5084,Racing,None
+Giant,2017,BMX,Titanium,23,Rim,Front,Yellow,13.8,2558,Racing,Integrated Lights
+Specialized,2017,Electric,Titanium,23,Disc,Front,Orange,12.3,9072,Touring,None
+Yeti,2018,Electric,Titanium,23,Hydraulic,None,Blue,7.2,9327,Commuting,None
+Specialized,2020,Cyclocross,Aluminum,27,Disc,None,White,11.3,6830,Touring,Electric Assistance
+Giant,2016,Hybrid,Titanium,23,Rim,Front,Yellow,8.2,834,Mountain Biking,Electric Assistance
+Scott,2022,Mountain,Aluminum,28,Rim,Full,Orange,11.1,6953,Leisure,Electric Assistance
+Specialized,2020,Electric,Steel,26,Hydraulic,Full,Grey,13.2,6454,Commuting,None
+Yeti,2018,Cyclocross,Titanium,26,Disc,Rear,Black,10.3,2008,Mountain Biking,None
+Scott,2018,Road,Aluminum,22,Rim,Full,Blue,11.8,7585,Touring,Electric Assistance
+Trek,2015,BMX,Aluminum,23,Disc,Front,Red,11.4,401,Commuting,Integrated Lights
+Cannondale,2021,Electric,Aluminum,24,Hydraulic,Rear,Blue,11.6,7121,Leisure,Electric Assistance
+Yeti,2018,Mountain,Aluminum,26,Disc,Front,Pink,10.8,1149,Racing,Integrated Lights
+Scott,2021,Road,Titanium,25,Disc,Front,Blue,8.3,1901,Exercise,Integrated Lights
+Trek,2020,Touring,Aluminum,25,Rim,None,Orange,8.9,3633,Racing,Electric Assistance
+Cannondale,2016,Mountain,Steel,22,Disc,Front,Orange,14.2,7348,Mountain Biking,Electric Assistance
+Canyon,2018,Electric,Aluminum,21,Hydraulic,Front,Purple,12.9,2425,Touring,Electric Assistance
+Merida,2018,Electric,Steel,28,Rim,Rear,Yellow,14.9,8260,Touring,Electric Assistance
+Cannondale,2022,Folding,Steel,25,Hydraulic,Rear,Black,7.4,3489,Leisure,Electric Assistance
+Scott,2023,Road,Steel,22,Disc,Full,Blue,9.5,1402,Touring,None
+Merida,2019,Cyclocross,Titanium,24,Disc,Full,Blue,14.7,1612,Leisure,Electric Assistance
+Merida,2022,Cyclocross,Steel,24,Rim,None,Red,10.5,4650,Exercise,Integrated Lights
+Santa Cruz,2023,Folding,Steel,21,Disc,Front,Grey,11.8,615,Mountain Biking,None
+Scott,2019,Cyclocross,Aluminum,24,Disc,Rear,Black,11.6,2082,Exercise,Electric Assistance
+Scott,2016,BMX,Steel,26,Hydraulic,None,Blue,8.1,971,Commuting,Electric Assistance
+Merida,2020,BMX,Titanium,22,Disc,Rear,Yellow,12.8,897,Exercise,Electric Assistance
+Bianchi,2015,Touring,Titanium,23,Rim,None,Red,7.5,1979,Mountain Biking,Integrated Lights
+Specialized,2018,BMX,Titanium,23,Rim,Front,Green,11.3,2981,Mountain Biking,Integrated Lights
+Santa Cruz,2021,Fat Bike,Steel,24,Hydraulic,Front,Blue,11.4,4803,Racing,Integrated Lights
+Yeti,2018,BMX,Carbon Fiber,27,Hydraulic,None,White,8.6,6771,Touring,Electric Assistance
+Trek,2015,BMX,Steel,25,Disc,None,White,13,2706,Exercise,Integrated Lights
+Specialized,2018,Folding,Steel,22,Disc,Full,Blue,14.2,7124,Leisure,Integrated Lights
+Giant,2021,Gravel,Carbon Fiber,20,Hydraulic,Front,Red,14.8,6183,Racing,Integrated Lights
+Merida,2020,Hybrid,Steel,20,Rim,Rear,Red,7.2,5886,Touring,None
+Cannondale,2016,Cyclocross,Aluminum,23,Hydraulic,Full,Green,9.5,9316,Racing,None
+Bianchi,2022,Mountain,Steel,27,Rim,Full,White,14.4,6441,Commuting,None
+Cannondale,2018,Touring,Carbon Fiber,23,Rim,None,Grey,7.4,6487,Touring,None
+Scott,2019,Fat Bike,Steel,21,Hydraulic,Rear,Blue,9.2,4840,Commuting,Integrated Lights
+Bianchi,2022,Touring,Aluminum,23,Rim,Full,Orange,11.3,4561,Exercise,None
+Cannondale,2015,Cyclocross,Steel,26,Rim,None,Black,12.9,8588,Commuting,Electric Assistance
+Merida,2018,Touring,Titanium,27,Disc,None,Green,8.8,9747,Touring,None
+Bianchi,2020,BMX,Aluminum,24,Disc,Full,Green,9.4,7885,Commuting,Integrated Lights
+Yeti,2021,Road,Titanium,22,Rim,Rear,Grey,8.6,9292,Leisure,Integrated Lights
+Bianchi,2021,Folding,Titanium,20,Disc,Full,Purple,10.5,8935,Leisure,Integrated Lights
+Cannondale,2022,BMX,Aluminum,22,Hydraulic,None,Orange,11,6283,Mountain Biking,Electric Assistance
+Giant,2019,Mountain,Titanium,21,Disc,Full,Pink,14.2,9611,Exercise,Integrated Lights
+Giant,2022,Electric,Carbon Fiber,20,Rim,Rear,Pink,13.2,9737,Racing,None
+Canyon,2017,Touring,Carbon Fiber,26,Disc,Front,Grey,12.7,584,Mountain Biking,Electric Assistance
+Trek,2015,BMX,Aluminum,23,Hydraulic,None,Grey,11.6,3459,Racing,None
+Giant,2016,Electric,Titanium,23,Rim,Rear,Grey,9.6,6093,Leisure,Integrated Lights
+Canyon,2021,Folding,Steel,26,Disc,Full,Orange,7.6,2513,Exercise,Integrated Lights
+Giant,2020,Electric,Carbon Fiber,26,Rim,Full,Red,9.1,4797,Exercise,None
+Merida,2019,Fat Bike,Carbon Fiber,25,Disc,Rear,Orange,8.6,2595,Leisure,Electric Assistance
+Canyon,2023,Folding,Aluminum,23,Rim,None,Pink,8.8,3486,Leisure,Integrated Lights
+Giant,2022,Fat Bike,Titanium,24,Disc,Rear,Pink,8.8,8390,Commuting,Integrated Lights
+Cannondale,2023,Folding,Carbon Fiber,20,Hydraulic,Rear,Grey,10.4,6776,Commuting,None
+Cannondale,2021,Electric,Steel,28,Hydraulic,Rear,Blue,10,9465,Exercise,Integrated Lights
+Cannondale,2016,Touring,Titanium,20,Hydraulic,Rear,Green,9.7,2578,Commuting,None
+Canyon,2019,Cyclocross,Carbon Fiber,21,Hydraulic,Full,Yellow,14,5768,Touring,Electric Assistance
+Scott,2023,Folding,Titanium,24,Hydraulic,Rear,Blue,8.6,3678,Commuting,Integrated Lights
+Canyon,2020,BMX,Steel,20,Disc,Front,Pink,8.3,3293,Touring,None
+Trek,2016,Electric,Titanium,24,Disc,None,Blue,7.6,8132,Commuting,Electric Assistance
+Scott,2021,Hybrid,Aluminum,24,Disc,Rear,Grey,14.4,1263,Touring,None
+Merida,2017,Electric,Aluminum,22,Disc,Front,Yellow,8.6,3657,Touring,Electric Assistance
+Cannondale,2022,Touring,Titanium,28,Hydraulic,Full,Grey,11.6,6768,Exercise,None
+Specialized,2020,Hybrid,Carbon Fiber,22,Hydraulic,Rear,Grey,10,2140,Exercise,Electric Assistance
+Canyon,2022,BMX,Carbon Fiber,21,Rim,Rear,Blue,11.4,5780,Exercise,None
+Specialized,2021,Mountain,Titanium,25,Rim,Front,Purple,12.1,5713,Mountain Biking,None
+Yeti,2021,Touring,Titanium,27,Rim,Rear,Yellow,13.7,1062,Mountain Biking,Integrated Lights
+Santa Cruz,2018,Mountain,Aluminum,25,Hydraulic,Front,Orange,11.1,6126,Commuting,Integrated Lights
+Canyon,2018,Road,Carbon Fiber,24,Disc,Front,Grey,9.6,500,Mountain Biking,None
+Specialized,2019,Road,Carbon Fiber,26,Disc,None,Grey,8.4,6764,Touring,Electric Assistance
+Canyon,2019,Cyclocross,Steel,25,Rim,Rear,Purple,11.9,4455,Commuting,Integrated Lights
+Canyon,2016,Mountain,Carbon Fiber,23,Hydraulic,Rear,Yellow,8.1,6897,Touring,Electric Assistance
+Canyon,2018,Cyclocross,Aluminum,28,Hydraulic,None,Green,13.8,4664,Exercise,Integrated Lights
+Canyon,2020,Road,Titanium,27,Rim,Front,White,7.2,9447,Racing,Electric Assistance
+Cannondale,2016,BMX,Aluminum,20,Rim,Rear,Grey,13.8,8310,Commuting,Electric Assistance
+Santa Cruz,2022,Touring,Aluminum,25,Rim,Front,Grey,8.8,4782,Leisure,None
+Cannondale,2020,Road,Steel,28,Disc,Full,Pink,10.9,9786,Racing,Integrated Lights
+Cannondale,2019,Touring,Titanium,26,Rim,None,Green,12.8,9371,Touring,Integrated Lights
+Giant,2017,Fat Bike,Carbon Fiber,26,Disc,None,Grey,13.3,2717,Mountain Biking,Integrated Lights
+Cannondale,2015,Gravel,Titanium,25,Hydraulic,Front,Yellow,10.2,1714,Commuting,Electric Assistance
+Merida,2023,Folding,Steel,27,Disc,Full,Orange,11,8488,Commuting,Electric Assistance
+Giant,2022,Fat Bike,Aluminum,21,Rim,Front,Red,7.2,4590,Commuting,Integrated Lights
+Bianchi,2016,Road,Aluminum,20,Disc,Full,Yellow,9.8,3589,Exercise,None
+Santa Cruz,2016,Mountain,Aluminum,20,Hydraulic,Front,Orange,9.1,9589,Mountain Biking,None
+Scott,2016,Electric,Aluminum,22,Rim,Full,Yellow,10.1,2854,Commuting,None
+Santa Cruz,2022,Hybrid,Steel,25,Rim,Front,White,9.4,6779,Racing,None
+Specialized,2019,Folding,Titanium,28,Hydraulic,Full,Orange,8.3,570,Mountain Biking,Electric Assistance
+Santa Cruz,2023,BMX,Aluminum,20,Rim,Rear,Blue,14.5,3542,Mountain Biking,None
+Bianchi,2021,Gravel,Steel,26,Disc,Full,Red,10.4,9243,Leisure,None
+Cannondale,2016,Gravel,Carbon Fiber,23,Disc,None,Grey,12.1,6860,Mountain Biking,None
+Merida,2017,Cyclocross,Carbon Fiber,27,Hydraulic,None,Pink,14.4,1401,Racing,Electric Assistance
+Merida,2023,Road,Titanium,25,Rim,Full,Yellow,11.6,6330,Commuting,Electric Assistance
+Santa Cruz,2019,Road,Titanium,20,Disc,Full,Red,8,4886,Mountain Biking,Electric Assistance
+Canyon,2022,Touring,Carbon Fiber,23,Rim,None,Green,13.3,2366,Mountain Biking,None
+Scott,2023,Folding,Titanium,27,Hydraulic,None,Pink,13.2,2166,Commuting,None
+Trek,2023,Folding,Steel,24,Rim,Front,Pink,10.2,1251,Exercise,Integrated Lights
+Bianchi,2018,Gravel,Carbon Fiber,26,Rim,None,Orange,11.3,933,Mountain Biking,Electric Assistance
+Santa Cruz,2017,Touring,Carbon Fiber,28,Hydraulic,Rear,Black,10.4,9230,Touring,Electric Assistance
+Santa Cruz,2020,Fat Bike,Aluminum,22,Disc,Rear,Grey,8.8,8719,Exercise,Integrated Lights
+Santa Cruz,2021,Road,Aluminum,21,Disc,None,Grey,13.1,9370,Racing,Integrated Lights
+Specialized,2019,Electric,Titanium,22,Rim,Front,Yellow,13,5505,Leisure,None
+Trek,2020,Cyclocross,Steel,28,Disc,Full,White,12.2,7931,Exercise,Electric Assistance
+Trek,2022,Folding,Steel,23,Disc,Front,Blue,10.6,717,Touring,None
+Trek,2015,BMX,Carbon Fiber,26,Hydraulic,Full,Pink,10.7,9700,Racing,None
+Trek,2018,Fat Bike,Aluminum,21,Hydraulic,None,White,9.4,6412,Mountain Biking,Electric Assistance
+Trek,2020,Road,Aluminum,27,Hydraulic,Rear,Purple,9.1,1932,Touring,Integrated Lights
+Yeti,2020,Gravel,Carbon Fiber,23,Rim,None,Blue,13.8,4893,Racing,Electric Assistance
+Canyon,2022,Hybrid,Carbon Fiber,20,Hydraulic,Rear,Purple,13.9,2824,Touring,Electric Assistance
+Giant,2023,Mountain,Carbon Fiber,25,Disc,Front,Grey,7.1,9265,Racing,Electric Assistance
+Santa Cruz,2015,Electric,Titanium,28,Hydraulic,Front,Orange,12.8,5952,Commuting,None
+Scott,2017,Mountain,Steel,27,Disc,None,Purple,9.6,3753,Touring,Electric Assistance
+Giant,2021,Road,Steel,25,Hydraulic,Front,Yellow,14.4,7057,Commuting,Electric Assistance
+Scott,2020,Hybrid,Titanium,26,Rim,Front,Pink,8.9,4157,Mountain Biking,Electric Assistance
+Santa Cruz,2016,Electric,Aluminum,28,Disc,None,Pink,9.7,4658,Exercise,Integrated Lights
+Specialized,2020,Touring,Aluminum,23,Rim,Full,Green,13,7920,Mountain Biking,None
+Giant,2016,Touring,Aluminum,26,Disc,Front,Orange,7.6,7670,Touring,None
+Canyon,2017,Road,Titanium,20,Hydraulic,Full,Purple,12.7,9610,Commuting,Integrated Lights
+Yeti,2018,Folding,Titanium,25,Rim,Front,Blue,12.4,3374,Exercise,Integrated Lights
+Scott,2015,Cyclocross,Steel,21,Disc,Full,Grey,9.4,8011,Racing,Electric Assistance
+Trek,2018,Gravel,Aluminum,23,Rim,None,White,12.7,2398,Exercise,Electric Assistance
+Trek,2015,Electric,Aluminum,20,Disc,Full,Pink,14.2,5480,Mountain Biking,Integrated Lights
+Yeti,2016,Gravel,Aluminum,23,Disc,Front,Red,13.4,4047,Racing,Electric Assistance
+Giant,2017,Road,Titanium,22,Rim,Front,Black,11.1,3708,Commuting,Electric Assistance
+Giant,2017,Folding,Steel,21,Disc,None,Grey,8.1,4117,Racing,Electric Assistance
+Trek,2018,Gravel,Steel,21,Rim,None,Yellow,14.1,6215,Mountain Biking,Electric Assistance
+Trek,2019,Folding,Carbon Fiber,21,Rim,Rear,Pink,10.9,6143,Mountain Biking,None
+Merida,2020,Gravel,Aluminum,27,Rim,Front,Grey,10.3,5497,Exercise,Integrated Lights
+Scott,2023,Road,Steel,28,Rim,None,Pink,11.4,6093,Mountain Biking,Integrated Lights
+Scott,2020,Hybrid,Aluminum,24,Hydraulic,Front,Red,8.7,3240,Mountain Biking,None
+Santa Cruz,2016,Touring,Steel,22,Rim,Full,Grey,9.7,305,Leisure,Integrated Lights
+Bianchi,2021,Electric,Carbon Fiber,23,Rim,None,Black,12.9,3029,Exercise,None
+Bianchi,2016,Touring,Steel,28,Disc,Full,Yellow,11.5,9624,Touring,Electric Assistance
+Trek,2021,Folding,Titanium,27,Rim,Front,Purple,13.1,1582,Leisure,None
+Specialized,2016,Gravel,Steel,21,Disc,Full,Green,13.1,7157,Exercise,Integrated Lights
+Santa Cruz,2020,Gravel,Titanium,28,Rim,None,Orange,13,5371,Leisure,None
+Merida,2021,Fat Bike,Aluminum,26,Hydraulic,None,Green,8.2,3119,Exercise,Electric Assistance
+Merida,2017,Touring,Titanium,28,Disc,Rear,Pink,12.2,4457,Mountain Biking,Electric Assistance
+Canyon,2017,Gravel,Aluminum,20,Disc,Full,Grey,10.8,9708,Mountain Biking,Integrated Lights
+Specialized,2017,Cyclocross,Aluminum,23,Hydraulic,None,Black,7.5,9560,Exercise,Integrated Lights
+Scott,2023,BMX,Steel,21,Rim,Full,Red,13.7,8316,Touring,None
+Trek,2021,Gravel,Aluminum,21,Hydraulic,None,Orange,8.8,970,Leisure,Electric Assistance
+Scott,2018,Hybrid,Aluminum,21,Hydraulic,Rear,White,7.1,5760,Commuting,None
+Yeti,2019,Hybrid,Titanium,22,Hydraulic,Rear,Yellow,12.1,477,Racing,Integrated Lights
+Yeti,2016,Electric,Carbon Fiber,22,Disc,Rear,Purple,8.4,7686,Racing,None
+Yeti,2021,Fat Bike,Titanium,24,Hydraulic,Front,Grey,7.5,8074,Mountain Biking,Integrated Lights
+Canyon,2021,Cyclocross,Titanium,22,Disc,Full,Pink,14.5,3299,Exercise,None
+Cannondale,2023,Hybrid,Aluminum,27,Rim,None,Black,8.2,5967,Leisure,Integrated Lights
+Canyon,2023,Mountain,Aluminum,24,Rim,Rear,Orange,11.2,3244,Commuting,Electric Assistance
+Trek,2023,Gravel,Titanium,20,Rim,None,Grey,9.9,7417,Touring,Integrated Lights
+Cannondale,2020,Gravel,Steel,27,Disc,Front,Orange,7.4,9506,Commuting,None
+Yeti,2017,Mountain,Carbon Fiber,27,Hydraulic,Rear,White,9.5,1516,Racing,Electric Assistance
+Yeti,2017,Touring,Aluminum,24,Disc,None,White,9.8,4456,Leisure,Integrated Lights
+Cannondale,2020,Fat Bike,Aluminum,21,Rim,Rear,White,10.9,3188,Leisure,None
+Canyon,2020,Hybrid,Titanium,26,Hydraulic,None,Black,12.7,4090,Mountain Biking,None
+Specialized,2019,Cyclocross,Steel,28,Disc,None,White,15,3245,Commuting,Integrated Lights
+Giant,2016,Touring,Aluminum,20,Hydraulic,Rear,White,11.1,1773,Racing,Integrated Lights
+Yeti,2016,Hybrid,Aluminum,24,Hydraulic,Rear,Purple,14.5,3758,Mountain Biking,Electric Assistance
+Trek,2023,Fat Bike,Titanium,25,Hydraulic,Front,Black,11.2,7739,Touring,Integrated Lights
+Santa Cruz,2023,Gravel,Aluminum,28,Disc,Front,Pink,11.7,9434,Leisure,Integrated Lights
+Scott,2018,Fat Bike,Carbon Fiber,26,Hydraulic,None,Green,8.1,6268,Touring,Integrated Lights
+Santa Cruz,2015,Folding,Carbon Fiber,20,Rim,Rear,Purple,11.6,9212,Mountain Biking,None
+Santa Cruz,2017,Mountain,Carbon Fiber,20,Disc,Rear,Orange,9.1,3526,Racing,Electric Assistance
+Giant,2018,Hybrid,Titanium,27,Disc,Rear,White,9.2,5491,Commuting,Electric Assistance
+Bianchi,2021,Folding,Titanium,21,Rim,Full,Green,10.5,5135,Leisure,None
+Trek,2019,Hybrid,Aluminum,20,Rim,Rear,Grey,12.2,5552,Mountain Biking,Integrated Lights
+Specialized,2022,Road,Steel,25,Disc,Rear,Grey,11.9,9942,Exercise,None
+Santa Cruz,2020,Road,Steel,28,Hydraulic,None,Orange,9.5,3030,Racing,None
+Scott,2020,Folding,Aluminum,21,Rim,None,Grey,7.2,6136,Racing,Integrated Lights
+Specialized,2018,Fat Bike,Steel,24,Rim,Full,Grey,9,2701,Touring,None
+Santa Cruz,2023,Folding,Titanium,21,Rim,None,Green,10.6,504,Leisure,Integrated Lights
+Trek,2022,Hybrid,Steel,28,Hydraulic,Full,Grey,14.3,8152,Exercise,None
+Canyon,2016,BMX,Steel,20,Hydraulic,Rear,Green,11.9,3599,Racing,Electric Assistance
+Bianchi,2022,Hybrid,Carbon Fiber,22,Disc,Full,White,14,9218,Touring,None
+Bianchi,2020,Road,Steel,28,Hydraulic,Full,Green,11.8,5475,Mountain Biking,None
+Canyon,2019,Fat Bike,Titanium,24,Disc,Full,Pink,10.5,6184,Touring,None
+Giant,2015,Folding,Carbon Fiber,20,Disc,None,Green,9.6,3130,Leisure,Integrated Lights
+Scott,2020,Mountain,Aluminum,27,Rim,Front,Pink,14.8,3653,Racing,Electric Assistance
+Scott,2022,Gravel,Aluminum,27,Disc,Full,Grey,10.8,1046,Mountain Biking,Integrated Lights
+Giant,2023,Gravel,Steel,23,Disc,Front,Blue,9.9,1338,Touring,None
+Canyon,2016,Hybrid,Titanium,26,Rim,Front,Pink,14.3,3480,Racing,None
+Santa Cruz,2021,Cyclocross,Carbon Fiber,21,Disc,Front,Orange,13.5,6052,Leisure,None
+Merida,2021,Hybrid,Carbon Fiber,28,Disc,Front,Red,11.7,9163,Leisure,Integrated Lights
+Bianchi,2015,BMX,Aluminum,24,Hydraulic,None,Pink,11.5,2074,Commuting,Integrated Lights
+Specialized,2017,Hybrid,Titanium,25,Disc,Front,Red,11,2810,Mountain Biking,None
+Giant,2023,BMX,Carbon Fiber,23,Hydraulic,Full,Pink,7.8,4520,Commuting,None
+Bianchi,2021,Touring,Aluminum,21,Disc,Full,Red,12.5,410,Leisure,None
+Specialized,2021,Hybrid,Steel,28,Rim,None,Green,10,7343,Racing,None
+Santa Cruz,2018,Gravel,Carbon Fiber,25,Disc,None,Black,7.1,5935,Exercise,Electric Assistance
+Bianchi,2019,Electric,Aluminum,27,Rim,Full,Pink,12.8,5540,Exercise,Integrated Lights
+Trek,2019,BMX,Titanium,24,Hydraulic,Full,Black,8,513,Mountain Biking,None
+Giant,2019,BMX,Titanium,23,Hydraulic,Full,Black,13.4,7211,Touring,Electric Assistance
+Yeti,2016,BMX,Carbon Fiber,27,Hydraulic,Full,Pink,9.1,2819,Commuting,Electric Assistance
+Specialized,2019,Folding,Aluminum,24,Rim,Front,Red,11.7,2708,Racing,Electric Assistance
+Yeti,2018,Hybrid,Steel,24,Rim,Full,White,11.6,4525,Exercise,Electric Assistance
+Bianchi,2023,Cyclocross,Carbon Fiber,20,Rim,Full,Green,8.4,5360,Exercise,Integrated Lights
+Trek,2017,Touring,Carbon Fiber,27,Disc,Rear,Black,10.5,9814,Exercise,Integrated Lights
+Yeti,2016,Electric,Carbon Fiber,25,Disc,Front,Pink,13.6,5820,Exercise,Integrated Lights
+Santa Cruz,2022,BMX,Carbon Fiber,23,Hydraulic,Rear,Grey,14.8,5180,Touring,None
+Merida,2023,BMX,Aluminum,21,Hydraulic,Rear,Pink,7.1,6682,Exercise,None
+Merida,2018,Electric,Steel,22,Disc,Front,Orange,8.2,8397,Mountain Biking,Integrated Lights
+Canyon,2018,Hybrid,Steel,27,Disc,Front,White,11.9,1536,Mountain Biking,Integrated Lights
+Bianchi,2015,Hybrid,Aluminum,20,Disc,Front,Purple,7,1925,Commuting,None
+Yeti,2022,Road,Steel,24,Hydraulic,Front,Black,13.1,9900,Racing,Integrated Lights
+Santa Cruz,2022,Electric,Carbon Fiber,25,Disc,Rear,White,11.7,4652,Racing,Integrated Lights
+Merida,2020,Road,Steel,24,Disc,Rear,Orange,12.4,9265,Exercise,Integrated Lights
+Specialized,2018,Fat Bike,Titanium,22,Hydraulic,Front,Grey,12,5109,Mountain Biking,Integrated Lights
+Trek,2022,Cyclocross,Carbon Fiber,22,Disc,Rear,Green,11.8,7406,Leisure,None
+Trek,2023,Gravel,Titanium,22,Disc,None,Red,7.8,5507,Racing,Electric Assistance
+Santa Cruz,2020,Touring,Titanium,21,Rim,Full,Blue,8.9,2486,Leisure,Electric Assistance
+Canyon,2020,Folding,Carbon Fiber,27,Disc,None,Orange,10.7,455,Exercise,Electric Assistance
+Giant,2016,Gravel,Carbon Fiber,21,Disc,Front,Pink,9.7,8534,Leisure,Electric Assistance
+Canyon,2022,Mountain,Carbon Fiber,27,Hydraulic,None,Green,13.3,553,Exercise,None
+Specialized,2021,Folding,Titanium,27,Disc,Full,Green,12.4,850,Touring,None
+Yeti,2016,Cyclocross,Aluminum,23,Hydraulic,Full,Grey,9.5,438,Commuting,Integrated Lights
+Yeti,2023,Touring,Steel,21,Rim,None,Red,14.6,5517,Mountain Biking,None
+Trek,2016,Electric,Carbon Fiber,27,Rim,None,Yellow,12.2,5724,Mountain Biking,Electric Assistance
+Yeti,2017,Gravel,Titanium,27,Disc,Full,Green,13.8,1858,Touring,Electric Assistance
+Canyon,2015,Hybrid,Carbon Fiber,27,Hydraulic,Full,Green,14.2,9428,Exercise,Electric Assistance
+Trek,2017,Hybrid,Titanium,28,Rim,Full,Purple,8.6,2232,Leisure,Integrated Lights
+Scott,2019,Fat Bike,Aluminum,23,Hydraulic,Front,Purple,10.2,4856,Racing,Integrated Lights
+Cannondale,2019,Road,Steel,20,Rim,Full,Yellow,7.5,3491,Touring,None
+Yeti,2023,Mountain,Aluminum,27,Hydraulic,Front,Purple,8.2,9016,Touring,Electric Assistance
+Santa Cruz,2019,Gravel,Carbon Fiber,25,Hydraulic,None,Pink,11.7,6984,Leisure,Integrated Lights
+Cannondale,2022,Fat Bike,Titanium,25,Hydraulic,None,Green,11.1,5145,Racing,None
+Bianchi,2020,Gravel,Carbon Fiber,25,Rim,Rear,White,10.5,8663,Touring,None
+Santa Cruz,2017,BMX,Steel,25,Hydraulic,Rear,Blue,12.7,8279,Leisure,Electric Assistance
+Canyon,2018,Road,Aluminum,22,Rim,Full,Orange,9.1,5462,Exercise,None
+Canyon,2015,Cyclocross,Steel,20,Rim,None,Blue,10.3,2471,Leisure,Integrated Lights
+Scott,2022,Touring,Carbon Fiber,24,Hydraulic,Rear,Orange,14.5,1778,Leisure,Integrated Lights
+Specialized,2021,Touring,Aluminum,28,Rim,None,Pink,11.5,6405,Leisure,Integrated Lights
+Santa Cruz,2023,Electric,Titanium,26,Hydraulic,Front,Purple,12.5,5956,Touring,Electric Assistance
+Scott,2016,Hybrid,Carbon Fiber,21,Rim,Front,Purple,13,2096,Mountain Biking,Electric Assistance
+Santa Cruz,2022,Cyclocross,Titanium,25,Rim,None,Purple,10.6,9464,Touring,Integrated Lights
+Santa Cruz,2021,Mountain,Steel,26,Hydraulic,Full,Pink,10.4,862,Leisure,None
+Canyon,2023,Cyclocross,Carbon Fiber,27,Hydraulic,Rear,Pink,10.8,9147,Racing,None
+Giant,2019,Hybrid,Titanium,24,Hydraulic,Full,White,13.9,9180,Touring,Electric Assistance
+Bianchi,2018,Mountain,Aluminum,27,Disc,Rear,Grey,9.9,5560,Racing,Electric Assistance
+Specialized,2020,Hybrid,Titanium,26,Rim,None,Black,14.1,9074,Commuting,None
+Scott,2017,Fat Bike,Titanium,28,Hydraulic,None,Black,7.3,632,Leisure,Electric Assistance
+Cannondale,2015,Folding,Titanium,20,Disc,Full,Yellow,9,1085,Touring,Electric Assistance
+Merida,2016,Electric,Carbon Fiber,23,Hydraulic,Rear,Yellow,14.2,1029,Leisure,None
+Yeti,2019,Gravel,Steel,26,Hydraulic,Front,Orange,14.5,2420,Racing,Electric Assistance
+Scott,2015,Folding,Titanium,28,Disc,Full,Orange,8.7,1597,Mountain Biking,Integrated Lights
+Specialized,2020,Mountain,Carbon Fiber,25,Disc,Full,Pink,8.7,2416,Exercise,Electric Assistance
+Bianchi,2023,Cyclocross,Carbon Fiber,24,Disc,Rear,Orange,13,9417,Mountain Biking,Electric Assistance
+Cannondale,2018,Electric,Steel,28,Rim,Full,Grey,9.9,8913,Exercise,None
+Giant,2016,Cyclocross,Steel,25,Rim,Rear,Yellow,8.6,1477,Racing,Integrated Lights
+Giant,2020,Gravel,Titanium,20,Hydraulic,Full,Green,8.8,9491,Touring,None
+Scott,2015,Touring,Titanium,21,Disc,Full,Pink,9.4,8503,Leisure,Electric Assistance
+Specialized,2023,Hybrid,Carbon Fiber,22,Hydraulic,None,Red,13.7,3463,Touring,Integrated Lights
+Canyon,2016,Fat Bike,Steel,27,Hydraulic,Full,Pink,10.7,3316,Racing,None
+Cannondale,2021,Folding,Aluminum,27,Hydraulic,None,Grey,8,5709,Exercise,Electric Assistance
+Santa Cruz,2022,Mountain,Carbon Fiber,24,Disc,None,White,10,6778,Leisure,Electric Assistance
+Scott,2016,Touring,Titanium,25,Disc,Rear,Blue,9.6,1461,Exercise,None
+Merida,2019,Electric,Steel,22,Disc,Front,Green,7.6,7365,Racing,Integrated Lights
+Specialized,2023,Fat Bike,Carbon Fiber,22,Rim,None,Green,13.6,3056,Commuting,Integrated Lights
+Santa Cruz,2021,Mountain,Aluminum,24,Rim,Rear,Orange,12.9,2592,Commuting,Electric Assistance
+Merida,2022,Mountain,Aluminum,20,Disc,Front,Red,10.5,596,Exercise,Integrated Lights
+Scott,2020,Mountain,Steel,25,Disc,None,Orange,12.6,7162,Touring,Electric Assistance
+Santa Cruz,2022,Fat Bike,Carbon Fiber,28,Disc,Full,Pink,9.7,1015,Touring,Integrated Lights
+Yeti,2023,Electric,Aluminum,25,Rim,Rear,Pink,14.5,8497,Mountain Biking,Electric Assistance
+Scott,2020,Fat Bike,Aluminum,21,Rim,Rear,Black,11,8249,Commuting,Electric Assistance
+Scott,2016,Touring,Carbon Fiber,28,Hydraulic,Rear,Pink,7.9,2726,Commuting,Electric Assistance
+Cannondale,2019,Fat Bike,Titanium,28,Disc,None,Green,10.8,2229,Leisure,Electric Assistance
+Cannondale,2022,BMX,Aluminum,24,Disc,Front,Orange,9.9,8460,Mountain Biking,Electric Assistance
+Specialized,2023,Cyclocross,Aluminum,20,Rim,Front,Orange,7.3,6125,Racing,None
+Giant,2022,Mountain,Aluminum,25,Rim,Full,Pink,9.8,8729,Exercise,Integrated Lights
+Trek,2022,Mountain,Aluminum,27,Hydraulic,None,Grey,14.8,5146,Leisure,None
+Specialized,2015,Road,Aluminum,21,Disc,Full,Yellow,9.1,7091,Mountain Biking,Integrated Lights
+Merida,2021,Electric,Steel,26,Rim,Rear,Purple,12.8,9263,Leisure,Electric Assistance
+Specialized,2018,Folding,Titanium,28,Disc,Front,White,8.2,6299,Mountain Biking,Integrated Lights
+Canyon,2022,Hybrid,Aluminum,28,Rim,Rear,Purple,8.4,6565,Commuting,None
+Merida,2017,Folding,Aluminum,27,Hydraulic,Full,Purple,9.4,8656,Exercise,Electric Assistance
+Bianchi,2021,Gravel,Carbon Fiber,25,Disc,Rear,Blue,7.1,6476,Exercise,None
+Canyon,2018,Mountain,Carbon Fiber,28,Hydraulic,Rear,Grey,10.9,5722,Leisure,None
+Giant,2020,Road,Steel,21,Rim,Front,Pink,14.8,6432,Touring,Integrated Lights
+Trek,2023,Gravel,Steel,26,Disc,Front,White,9.3,6071,Leisure,None
+Yeti,2020,Gravel,Titanium,20,Rim,Front,Grey,12.4,9856,Mountain Biking,None
+Giant,2015,Electric,Titanium,25,Rim,Front,Blue,13.8,3746,Touring,Electric Assistance
+Cannondale,2021,Road,Aluminum,25,Rim,None,Blue,14.5,6357,Commuting,None
+Santa Cruz,2016,Road,Carbon Fiber,23,Hydraulic,Rear,Yellow,7.2,4131,Commuting,Electric Assistance
+Merida,2019,Electric,Titanium,24,Disc,Full,Purple,13.8,2009,Leisure,None
+Yeti,2022,Fat Bike,Aluminum,26,Rim,None,Green,7.7,5215,Touring,Integrated Lights
+Giant,2020,Road,Carbon Fiber,25,Rim,Rear,Green,9.5,1344,Mountain Biking,Integrated Lights
+Scott,2017,Folding,Steel,23,Hydraulic,Full,Orange,12.9,6336,Leisure,Electric Assistance
+Yeti,2021,Fat Bike,Aluminum,28,Disc,Front,Grey,9.9,8499,Touring,Integrated Lights
+Canyon,2019,Gravel,Aluminum,27,Rim,Front,Green,7.5,5489,Touring,None
+Yeti,2022,Folding,Steel,27,Rim,None,White,12.9,1140,Touring,None
+Giant,2018,Electric,Carbon Fiber,28,Disc,Front,Yellow,11.5,6107,Racing,Integrated Lights
+Canyon,2021,Folding,Steel,28,Disc,Full,Blue,10.7,4175,Commuting,Integrated Lights
+Merida,2022,Folding,Aluminum,26,Hydraulic,Rear,Grey,10.3,9175,Mountain Biking,None
+Giant,2015,Folding,Titanium,27,Rim,None,Green,12,3920,Commuting,Integrated Lights
+Yeti,2021,Road,Carbon Fiber,28,Hydraulic,None,Grey,14.3,9418,Leisure,None
+Specialized,2019,Electric,Aluminum,22,Hydraulic,Rear,Green,10.4,3211,Mountain Biking,Integrated Lights
+Giant,2017,Cyclocross,Steel,23,Disc,Front,Pink,10.1,9214,Touring,None
+Yeti,2018,Hybrid,Carbon Fiber,24,Hydraulic,None,Yellow,9.9,7108,Commuting,Electric Assistance
+Bianchi,2017,Hybrid,Aluminum,24,Rim,Front,Orange,8.6,832,Touring,Integrated Lights
+Bianchi,2015,Gravel,Carbon Fiber,24,Rim,Rear,Yellow,13.7,3862,Commuting,None
+Scott,2020,Road,Titanium,24,Rim,Full,Black,8.8,8471,Touring,Electric Assistance
+Santa Cruz,2023,Gravel,Titanium,21,Disc,Full,Orange,11.4,3136,Exercise,Electric Assistance
+Giant,2016,Electric,Titanium,22,Disc,Full,Orange,13.3,8768,Racing,Integrated Lights
+Canyon,2015,BMX,Carbon Fiber,25,Rim,Full,Purple,7.2,8609,Mountain Biking,None
+Merida,2020,Touring,Titanium,26,Rim,Rear,Blue,11,3044,Exercise,None
+Canyon,2017,Folding,Carbon Fiber,26,Disc,Front,Green,10.2,6394,Racing,None
+Cannondale,2016,Folding,Carbon Fiber,22,Rim,None,Grey,7.6,8155,Racing,Electric Assistance
+Merida,2018,Cyclocross,Steel,25,Rim,Full,Pink,13.5,2977,Racing,None
+Giant,2015,Hybrid,Aluminum,20,Hydraulic,Front,Orange,10.2,9762,Commuting,None
+Santa Cruz,2021,Folding,Titanium,21,Disc,Front,Grey,10,2050,Mountain Biking,None
+Yeti,2015,Folding,Aluminum,21,Disc,Front,Green,12.4,1502,Mountain Biking,Electric Assistance
+Merida,2022,Cyclocross,Aluminum,21,Rim,Full,Black,10.5,8692,Touring,Integrated Lights
+Trek,2018,Road,Steel,28,Hydraulic,Rear,Green,10,7500,Commuting,Integrated Lights
+Yeti,2023,Hybrid,Titanium,23,Disc,Rear,Black,11.5,9037,Touring,Electric Assistance
+Specialized,2019,Mountain,Aluminum,23,Disc,None,Grey,9.9,9730,Leisure,Electric Assistance
+Cannondale,2019,Folding,Carbon Fiber,22,Disc,None,Red,13,3397,Mountain Biking,Integrated Lights
+Santa Cruz,2020,Mountain,Aluminum,23,Hydraulic,Full,Black,13.1,8068,Leisure,None
+Trek,2016,Gravel,Carbon Fiber,23,Hydraulic,Front,Orange,13,2943,Mountain Biking,None
+Santa Cruz,2021,Hybrid,Carbon Fiber,20,Hydraulic,Front,Yellow,13.3,3302,Leisure,Integrated Lights
+Bianchi,2023,Mountain,Carbon Fiber,28,Disc,Rear,Grey,11.3,5451,Exercise,None
+Merida,2021,Cyclocross,Steel,24,Disc,Full,Pink,13.6,7276,Commuting,Electric Assistance
+Bianchi,2016,Hybrid,Titanium,28,Hydraulic,None,Green,9.1,6634,Racing,None
+Cannondale,2019,Mountain,Aluminum,20,Hydraulic,Front,Red,14.3,5013,Racing,Integrated Lights
+Santa Cruz,2019,Cyclocross,Steel,23,Hydraulic,None,Purple,10.2,3695,Racing,None
+Giant,2023,Hybrid,Titanium,20,Rim,Front,Yellow,11.2,1954,Touring,Electric Assistance
+Specialized,2021,Folding,Carbon Fiber,28,Hydraulic,Rear,Orange,8.3,1963,Mountain Biking,Integrated Lights
+Yeti,2017,Folding,Titanium,23,Disc,Full,Purple,7.3,2009,Commuting,None
+Giant,2018,Hybrid,Aluminum,20,Hydraulic,Front,Pink,7.7,1092,Touring,None
+Bianchi,2023,Road,Steel,28,Hydraulic,None,Red,7,7762,Exercise,Integrated Lights
+Santa Cruz,2015,Gravel,Steel,21,Rim,Full,Grey,13.2,547,Touring,None
+Santa Cruz,2020,Cyclocross,Carbon Fiber,26,Disc,Rear,Pink,13.1,2895,Exercise,None
+Specialized,2023,Electric,Carbon Fiber,20,Hydraulic,None,Red,10.3,9896,Leisure,Integrated Lights
+Merida,2022,BMX,Carbon Fiber,26,Rim,Rear,Orange,11.9,3216,Commuting,None
+Yeti,2020,Folding,Aluminum,25,Hydraulic,Full,Purple,8.2,881,Exercise,Electric Assistance
+Cannondale,2021,Cyclocross,Titanium,22,Rim,Full,White,13.8,5796,Leisure,Electric Assistance
+Specialized,2020,Cyclocross,Steel,23,Rim,Rear,Yellow,12,1506,Exercise,Electric Assistance
+Trek,2022,Fat Bike,Carbon Fiber,25,Rim,Rear,Grey,9.8,3149,Mountain Biking,None
+Specialized,2019,Hybrid,Steel,23,Rim,Rear,Blue,13.9,4954,Leisure,None
+Trek,2017,Road,Carbon Fiber,27,Disc,None,Blue,12.7,9606,Touring,Electric Assistance
+Specialized,2021,Cyclocross,Titanium,26,Rim,None,Grey,10.3,7863,Exercise,Integrated Lights
+Specialized,2021,Mountain,Steel,20,Disc,Rear,Grey,9.9,2001,Mountain Biking,Electric Assistance
+Canyon,2023,BMX,Titanium,24,Disc,Rear,White,8.6,4549,Leisure,Electric Assistance
+Bianchi,2016,Road,Carbon Fiber,28,Hydraulic,Front,Black,8.4,4016,Leisure,Integrated Lights
+Bianchi,2015,Electric,Steel,24,Disc,None,Orange,10.6,3908,Commuting,None
+Giant,2020,Mountain,Aluminum,22,Hydraulic,Front,Pink,10,7063,Commuting,Electric Assistance
+Cannondale,2015,Fat Bike,Aluminum,22,Disc,None,Green,7.5,7812,Leisure,Electric Assistance
+Trek,2016,BMX,Aluminum,28,Disc,Front,Yellow,9.5,927,Leisure,Electric Assistance
+Yeti,2019,Folding,Titanium,23,Disc,None,Purple,8.1,3175,Commuting,Electric Assistance
+Scott,2016,Cyclocross,Titanium,24,Disc,Full,Pink,13.4,8374,Leisure,Integrated Lights
+Canyon,2015,Folding,Carbon Fiber,23,Hydraulic,None,Pink,10.8,9456,Commuting,Electric Assistance
+Trek,2018,Fat Bike,Carbon Fiber,24,Disc,Rear,Pink,8.5,6012,Leisure,Electric Assistance
+Santa Cruz,2018,Folding,Steel,22,Hydraulic,Full,Blue,8.3,2082,Touring,Integrated Lights
+Giant,2015,Mountain,Steel,28,Disc,Front,Blue,13.5,1764,Leisure,Integrated Lights
+Giant,2023,Cyclocross,Titanium,21,Rim,Full,Purple,11.5,5023,Exercise,Integrated Lights
+Merida,2017,Gravel,Aluminum,20,Hydraulic,Full,Black,11,3842,Commuting,Integrated Lights
+Scott,2020,Electric,Carbon Fiber,23,Rim,Rear,White,10.6,4397,Leisure,None
+Merida,2019,Folding,Carbon Fiber,28,Hydraulic,Rear,Purple,13,5650,Commuting,None
+Trek,2017,BMX,Titanium,23,Disc,None,Black,11.4,1147,Mountain Biking,None
+Canyon,2019,Hybrid,Titanium,24,Hydraulic,Front,Pink,8,9323,Leisure,Electric Assistance
+Santa Cruz,2017,BMX,Carbon Fiber,28,Disc,Rear,Black,7.6,6325,Racing,Integrated Lights
+Giant,2015,Folding,Titanium,24,Hydraulic,None,Black,9.1,2930,Exercise,Electric Assistance
+Trek,2016,Cyclocross,Carbon Fiber,21,Disc,None,Green,14.8,9091,Touring,Integrated Lights
+Trek,2020,Electric,Aluminum,25,Hydraulic,Full,Yellow,7.7,3104,Mountain Biking,None
+Specialized,2020,Electric,Carbon Fiber,24,Rim,Front,White,11.3,4503,Racing,None
+Cannondale,2023,Folding,Carbon Fiber,25,Hydraulic,Full,Pink,14.4,9920,Mountain Biking,Integrated Lights
+Trek,2015,Folding,Aluminum,28,Hydraulic,Rear,Pink,7.6,2324,Racing,Integrated Lights
+Cannondale,2015,Cyclocross,Aluminum,27,Hydraulic,Rear,Green,8.5,7929,Mountain Biking,Integrated Lights
+Cannondale,2020,Touring,Steel,20,Disc,None,Pink,12,1247,Mountain Biking,Electric Assistance
+Merida,2022,Cyclocross,Aluminum,26,Rim,Full,White,7.1,1702,Touring,None
+Canyon,2018,BMX,Titanium,21,Disc,Rear,Red,14.4,5343,Touring,Integrated Lights
+Yeti,2021,Electric,Steel,21,Rim,Front,Purple,7.9,9479,Exercise,Integrated Lights
+Bianchi,2015,Hybrid,Aluminum,24,Hydraulic,Rear,Blue,7.5,5778,Commuting,Electric Assistance
+Merida,2017,Electric,Aluminum,25,Disc,Front,Grey,8.5,6404,Mountain Biking,Electric Assistance
+Bianchi,2015,Hybrid,Carbon Fiber,21,Disc,Full,Yellow,11.9,2846,Commuting,None
+Cannondale,2020,Fat Bike,Carbon Fiber,25,Hydraulic,Front,Green,14.5,6690,Mountain Biking,None
+Scott,2016,Cyclocross,Titanium,25,Disc,Front,Grey,10.8,9879,Exercise,Electric Assistance
+Yeti,2022,Road,Aluminum,23,Rim,None,Yellow,11.3,3610,Leisure,Electric Assistance
+Yeti,2018,Hybrid,Carbon Fiber,27,Disc,Front,Yellow,10.5,9281,Leisure,Integrated Lights
+Santa Cruz,2017,Touring,Titanium,21,Hydraulic,None,Yellow,11.3,2467,Commuting,Electric Assistance
+Yeti,2018,Mountain,Steel,27,Hydraulic,Front,Blue,9.2,6949,Racing,Integrated Lights
+Cannondale,2017,Touring,Aluminum,20,Disc,Rear,Red,12.6,952,Racing,Electric Assistance
+Scott,2018,Hybrid,Steel,26,Rim,Rear,White,12.7,2039,Leisure,Electric Assistance
+Specialized,2022,Touring,Aluminum,26,Hydraulic,Front,Black,11.2,3669,Leisure,Electric Assistance
+Specialized,2022,Folding,Aluminum,25,Rim,None,White,13.9,9465,Mountain Biking,Electric Assistance
+Specialized,2016,Touring,Aluminum,23,Disc,Front,Black,12.3,2899,Mountain Biking,None
+Yeti,2019,BMX,Aluminum,20,Hydraulic,Full,Grey,10.9,3457,Racing,None
